@@ -20,12 +20,10 @@ At the top level, the repository currently has three main pieces:
 .
 |-- DPDdata/
 |-- ExpImages/                     # described in this README as ExpImages
-`-- Multifidelity_neural_networks_for_three_dimensional_reconstruction_of_health_and_aged_erythrocyte.pdf
 ```
 
 - `DPDdata/` contains the simulation-driven benchmark cases described in the manuscript.
 - `ExpImages/` contains the image-based reconstruction workflows. In this README, it is referred to as `ExpImages/`, since that is the intended project-facing name.
-- The PDF is the manuscript describing the scientific motivation, model design, and evaluation.
 
 ## Scientific Scope
 
@@ -43,7 +41,7 @@ There are two complementary workflows in this repository.
 
 ### 1. Simulation Benchmark Workflow: `DPDdata/`
 
-`DPDdata/` is the main simulation benchmark collection. Its own [README](./DPDdata/README.md) already documents the experimental families and naming conventions in detail.
+`DPDdata/` is the main simulation benchmark collection.
 
 The current case folders include:
 
