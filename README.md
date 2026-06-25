@@ -190,24 +190,6 @@ The repository currently supports the following end-to-end logic:
 4. Run `mf_rbcnn_main1.py` to reconstruct the full 3D RBC surface.
 5. Inspect `result/` plots and `mfS_predict.npz` for reconstruction quality.
 
-## Notes on Naming
-
-- This README uses `ExpImages` as the descriptive name for `ExpImages/`, per the intended rename.
-- `DPDdata/README.md` remains the most detailed reference for the simulation benchmark naming system.
-- Local folders such as `__pycache__/` and `.claude/` are development artifacts rather than core scientific outputs.
-
-## Recommended Starting Points
-
-If you are new to this repository, the best reading order is:
-
-1. the manuscript PDF at the repository root,
-2. [DPDdata/README.md](./DPDdata/README.md),
-3. one image-based case under `ExpImages/` such as:
-   - `ExpImages/Disco/ImageExtraction/`
-   - `ExpImages/Disco/MFNN/`
-
-That sequence gives the clearest picture of the project: simulation benchmark first, then image extraction, then MFNN-based 3D reconstruction.
-
 ## Requirements
 
 - Python 3.12.x or higher version 
