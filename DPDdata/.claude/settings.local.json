@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:arxiv.org)",
+      "PowerShell(Get-ChildItem \"c:\\\\Users\\\\hwen\\\\Box\\\\Hz Research\\\\RBC3dReconstr\\\\RBCNN\\\\4Github\\\\MFNN\" -Directory | ForEach-Object { $parent = $_.Name; Get-ChildItem $_.FullName -Directory | ForEach-Object { \"$parent / $\\($_.Name\\)\" } })"
+    ]
+  }
+}

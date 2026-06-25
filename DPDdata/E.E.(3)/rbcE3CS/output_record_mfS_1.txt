@@ -1,0 +1,1200 @@
+Epoch 1000:
+  Train-loss[total = 1.8473e-01, C_lf = 5.6859e-02, A/V_lf = 4.4698e-01, C_hf = 4.8716e-02, A/V_hf = 1.5848e+00],
+  Test-error[C_lf = 6.1606e-02, C_hf = 9.1524e-02], A_hf = 1.0937e-01, V_hf = 8.6935e-03, time: 8.02s
+Epoch 2000:
+  Train-loss[total = 1.5372e-01, C_lf = 4.7549e-02, A/V_lf = 2.4468e-01, C_hf = 3.3536e-02, A/V_hf = 1.4607e+00],
+  Test-error[C_lf = 4.6547e-02, C_hf = 7.7255e-02], A_hf = 1.0411e-01, V_hf = 1.8213e-02, time: 13.14s
+Epoch 3000:
+  Train-loss[total = 1.3777e-01, C_lf = 3.9363e-02, A/V_lf = 1.0514e-01, C_hf = 3.9205e-02, A/V_hf = 1.0579e+00],
+  Test-error[C_lf = 3.6888e-02, C_hf = 6.5028e-02], A_hf = 8.8216e-02, V_hf = 1.8345e-02, time: 18.18s
+Epoch 4000:
+  Train-loss[total = 1.0764e-01, C_lf = 2.4971e-02, A/V_lf = 5.4558e-02, C_hf = 2.2781e-02, A/V_hf = 1.0392e+00],
+  Test-error[C_lf = 2.8905e-02, C_hf = 5.6270e-02], A_hf = 8.3780e-02, V_hf = 3.4869e-02, time: 23.28s
+Epoch 5000:
+  Train-loss[total = 9.7288e-02, C_lf = 2.1406e-02, A/V_lf = 3.1802e-02, C_hf = 2.0542e-02, A/V_hf = 7.3014e-01],
+  Test-error[C_lf = 2.5426e-02, C_hf = 5.0006e-02], A_hf = 7.1468e-02, V_hf = 2.4596e-02, time: 28.19s
+Epoch 6000:
+  Train-loss[total = 9.1259e-02, C_lf = 2.0530e-02, A/V_lf = 2.4059e-02, C_hf = 1.9428e-02, A/V_hf = 6.9354e-01],
+  Test-error[C_lf = 2.3837e-02, C_hf = 4.5383e-02], A_hf = 6.7373e-02, V_hf = 3.1888e-02, time: 33.19s
+Epoch 7000:
+  Train-loss[total = 8.4023e-02, C_lf = 1.8746e-02, A/V_lf = 2.6986e-02, C_hf = 1.6231e-02, A/V_hf = 7.5631e-01],
+  Test-error[C_lf = 2.1205e-02, C_hf = 4.2754e-02], A_hf = 6.7765e-02, V_hf = 4.0191e-02, time: 38.12s
+Epoch 8000:
+  Train-loss[total = 8.0106e-02, C_lf = 1.7590e-02, A/V_lf = 2.0725e-02, C_hf = 1.7588e-02, A/V_hf = 6.9562e-01],
+  Test-error[C_lf = 2.1268e-02, C_hf = 3.9649e-02], A_hf = 6.3089e-02, V_hf = 4.2779e-02, time: 43.09s
+Epoch 9000:
+  Train-loss[total = 7.3852e-02, C_lf = 1.5826e-02, A/V_lf = 1.7746e-02, C_hf = 1.4482e-02, A/V_hf = 5.1956e-01],
+  Test-error[C_lf = 1.9065e-02, C_hf = 3.7853e-02], A_hf = 5.8010e-02, V_hf = 2.8492e-02, time: 48.13s
+Epoch 10000:
+  Train-loss[total = 6.9638e-02, C_lf = 1.5067e-02, A/V_lf = 9.3429e-03, C_hf = 1.3017e-02, A/V_hf = 4.7713e-01],
+  Test-error[C_lf = 1.8142e-02, C_hf = 3.7452e-02], A_hf = 5.4833e-02, V_hf = 2.9391e-02, time: 53.18s
+Epoch 11000:
+  Train-loss[total = 6.9441e-02, C_lf = 1.6162e-02, A/V_lf = 6.0370e-03, C_hf = 1.5198e-02, A/V_hf = 4.4121e-01],
+  Test-error[C_lf = 1.7575e-02, C_hf = 3.6077e-02], A_hf = 5.1944e-02, V_hf = 3.0249e-02, time: 58.39s
+Epoch 12000:
+  Train-loss[total = 6.5090e-02, C_lf = 1.4084e-02, A/V_lf = 5.4748e-03, C_hf = 1.4923e-02, A/V_hf = 3.3554e-01],
+  Test-error[C_lf = 1.7219e-02, C_hf = 3.5155e-02], A_hf = 4.7449e-02, V_hf = 2.0337e-02, time: 63.47s
+Epoch 13000:
+  Train-loss[total = 6.2009e-02, C_lf = 1.4517e-02, A/V_lf = 5.5473e-03, C_hf = 1.1897e-02, A/V_hf = 3.9491e-01],
+  Test-error[C_lf = 1.6736e-02, C_hf = 3.4643e-02], A_hf = 4.9246e-02, V_hf = 2.8366e-02, time: 68.48s
+Epoch 14000:
+  Train-loss[total = 5.9959e-02, C_lf = 1.4599e-02, A/V_lf = 3.7555e-03, C_hf = 1.1326e-02, A/V_hf = 3.1144e-01],
+  Test-error[C_lf = 1.7808e-02, C_hf = 3.4355e-02], A_hf = 4.4110e-02, V_hf = 2.4242e-02, time: 73.41s
+Epoch 15000:
+  Train-loss[total = 5.6332e-02, C_lf = 1.3033e-02, A/V_lf = 4.3048e-03, C_hf = 1.0513e-02, A/V_hf = 3.2700e-01],
+  Test-error[C_lf = 1.7112e-02, C_hf = 3.4628e-02], A_hf = 4.5140e-02, V_hf = 2.4990e-02, time: 78.39s
+Epoch 16000:
+  Train-loss[total = 5.5078e-02, C_lf = 1.2656e-02, A/V_lf = 5.5157e-03, C_hf = 1.1741e-02, A/V_hf = 3.6129e-01],
+  Test-error[C_lf = 1.6514e-02, C_hf = 3.4058e-02], A_hf = 4.6074e-02, V_hf = 2.9527e-02, time: 83.42s
+Epoch 17000:
+  Train-loss[total = 5.1041e-02, C_lf = 1.1006e-02, A/V_lf = 2.4077e-03, C_hf = 9.8537e-03, A/V_hf = 2.8120e-01],
+  Test-error[C_lf = 1.5808e-02, C_hf = 3.2565e-02], A_hf = 4.2227e-02, V_hf = 2.2212e-02, time: 88.31s
+Epoch 18000:
+  Train-loss[total = 5.1569e-02, C_lf = 1.2092e-02, A/V_lf = 2.0840e-03, C_hf = 1.1338e-02, A/V_hf = 2.2132e-01],
+  Test-error[C_lf = 1.5728e-02, C_hf = 3.2407e-02], A_hf = 3.9132e-02, V_hf = 1.4398e-02, time: 93.22s
+Epoch 19000:
+  Train-loss[total = 5.1604e-02, C_lf = 1.3044e-02, A/V_lf = 3.2093e-03, C_hf = 1.1859e-02, A/V_hf = 3.1549e-01],
+  Test-error[C_lf = 1.5469e-02, C_hf = 3.2400e-02], A_hf = 4.3727e-02, V_hf = 2.6055e-02, time: 98.17s
+Epoch 20000:
+  Train-loss[total = 4.8623e-02, C_lf = 1.2279e-02, A/V_lf = 1.2236e-03, C_hf = 9.6886e-03, A/V_hf = 2.5000e-01],
+  Test-error[C_lf = 1.6898e-02, C_hf = 3.2695e-02], A_hf = 3.9514e-02, V_hf = 2.1736e-02, time: 103.20s
+Epoch 21000:
+  Train-loss[total = 5.1005e-02, C_lf = 1.4195e-02, A/V_lf = 2.2241e-03, C_hf = 1.2663e-02, A/V_hf = 2.1118e-01],
+  Test-error[C_lf = 1.5128e-02, C_hf = 3.2090e-02], A_hf = 3.7561e-02, V_hf = 1.6404e-02, time: 108.25s
+Epoch 22000:
+  Train-loss[total = 4.6283e-02, C_lf = 1.1863e-02, A/V_lf = 1.0303e-03, C_hf = 9.8146e-03, A/V_hf = 1.7161e-01],
+  Test-error[C_lf = 1.5510e-02, C_hf = 3.1067e-02], A_hf = 3.3903e-02, V_hf = 1.4645e-02, time: 113.25s
+Epoch 23000:
+  Train-loss[total = 4.6323e-02, C_lf = 1.1920e-02, A/V_lf = 9.9146e-04, C_hf = 1.1561e-02, A/V_hf = 2.6744e-01],
+  Test-error[C_lf = 1.5230e-02, C_hf = 3.2013e-02], A_hf = 4.0183e-02, V_hf = 2.4170e-02, time: 118.27s
+Epoch 24000:
+  Train-loss[total = 4.5519e-02, C_lf = 1.1568e-02, A/V_lf = 1.2653e-03, C_hf = 1.2291e-02, A/V_hf = 2.1346e-01],
+  Test-error[C_lf = 1.5134e-02, C_hf = 3.1691e-02], A_hf = 3.7614e-02, V_hf = 1.6964e-02, time: 123.31s
+Epoch 25000:
+  Train-loss[total = 4.2732e-02, C_lf = 1.1083e-02, A/V_lf = 1.0834e-03, C_hf = 9.2606e-03, A/V_hf = 1.9157e-01],
+  Test-error[C_lf = 1.5106e-02, C_hf = 3.1084e-02], A_hf = 3.5212e-02, V_hf = 1.7337e-02, time: 128.36s
+Epoch 26000:
+  Train-loss[total = 4.2036e-02, C_lf = 1.1090e-02, A/V_lf = 4.5691e-04, C_hf = 9.3699e-03, A/V_hf = 2.3915e-01],
+  Test-error[C_lf = 1.5221e-02, C_hf = 3.1467e-02], A_hf = 3.7879e-02, V_hf = 2.3134e-02, time: 133.19s
+Epoch 27000:
+  Train-loss[total = 4.0416e-02, C_lf = 9.9738e-03, A/V_lf = 1.3921e-03, C_hf = 9.7686e-03, A/V_hf = 2.0006e-01],
+  Test-error[C_lf = 1.4936e-02, C_hf = 3.0956e-02], A_hf = 3.5502e-02, V_hf = 1.9045e-02, time: 138.11s
+Epoch 28000:
+  Train-loss[total = 4.0707e-02, C_lf = 1.1129e-02, A/V_lf = 1.4646e-03, C_hf = 9.3729e-03, A/V_hf = 1.8619e-01],
+  Test-error[C_lf = 1.4865e-02, C_hf = 3.0873e-02], A_hf = 3.4593e-02, V_hf = 1.7435e-02, time: 143.09s
+Epoch 29000:
+  Train-loss[total = 3.9789e-02, C_lf = 1.0903e-02, A/V_lf = 2.6234e-03, C_hf = 9.2577e-03, A/V_hf = 1.8475e-01],
+  Test-error[C_lf = 1.4445e-02, C_hf = 3.1159e-02], A_hf = 3.4617e-02, V_hf = 1.6917e-02, time: 147.96s
+Epoch 30000:
+  Train-loss[total = 3.9330e-02, C_lf = 1.0599e-02, A/V_lf = 2.4810e-04, C_hf = 1.0189e-02, A/V_hf = 1.5698e-01],
+  Test-error[C_lf = 1.4411e-02, C_hf = 3.0369e-02], A_hf = 3.1797e-02, V_hf = 1.5918e-02, time: 152.84s
+Epoch 31000:
+  Train-loss[total = 3.8965e-02, C_lf = 1.0629e-02, A/V_lf = 2.5265e-03, C_hf = 1.0484e-02, A/V_hf = 2.4528e-01],
+  Test-error[C_lf = 1.4922e-02, C_hf = 3.0417e-02], A_hf = 3.8107e-02, V_hf = 2.4009e-02, time: 157.74s
+Epoch 32000:
+  Train-loss[total = 3.8444e-02, C_lf = 1.0892e-02, A/V_lf = 2.7328e-03, C_hf = 9.9878e-03, A/V_hf = 1.7450e-01],
+  Test-error[C_lf = 1.4432e-02, C_hf = 3.0781e-02], A_hf = 3.3142e-02, V_hf = 1.7825e-02, time: 162.71s
+Epoch 33000:
+  Train-loss[total = 3.6863e-02, C_lf = 1.0218e-02, A/V_lf = 2.3644e-03, C_hf = 9.1826e-03, A/V_hf = 1.4323e-01],
+  Test-error[C_lf = 1.4437e-02, C_hf = 3.0970e-02], A_hf = 3.0566e-02, V_hf = 1.4644e-02, time: 167.82s
+Epoch 34000:
+  Train-loss[total = 3.7206e-02, C_lf = 1.1025e-02, A/V_lf = 2.4972e-03, C_hf = 9.2121e-03, A/V_hf = 2.0469e-01],
+  Test-error[C_lf = 1.4131e-02, C_hf = 3.0096e-02], A_hf = 3.5473e-02, V_hf = 2.0375e-02, time: 172.92s
+Epoch 35000:
+  Train-loss[total = 3.6928e-02, C_lf = 1.1045e-02, A/V_lf = 3.7968e-04, C_hf = 9.5853e-03, A/V_hf = 2.2824e-01],
+  Test-error[C_lf = 1.4574e-02, C_hf = 3.0259e-02], A_hf = 3.6508e-02, V_hf = 2.3715e-02, time: 177.99s
+Epoch 36000:
+  Train-loss[total = 3.5847e-02, C_lf = 1.1160e-02, A/V_lf = 3.0440e-04, C_hf = 8.0685e-03, A/V_hf = 1.8297e-01],
+  Test-error[C_lf = 1.4175e-02, C_hf = 3.0040e-02], A_hf = 3.3258e-02, V_hf = 1.9940e-02, time: 183.02s
+Epoch 37000:
+  Train-loss[total = 3.2919e-02, C_lf = 8.5909e-03, A/V_lf = 1.0300e-03, C_hf = 8.1647e-03, A/V_hf = 1.4366e-01],
+  Test-error[C_lf = 1.4997e-02, C_hf = 3.0445e-02], A_hf = 3.0733e-02, V_hf = 1.4300e-02, time: 188.01s
+Epoch 38000:
+  Train-loss[total = 3.4098e-02, C_lf = 1.0143e-02, A/V_lf = 1.1970e-03, C_hf = 8.2046e-03, A/V_hf = 1.7311e-01],
+  Test-error[C_lf = 1.3872e-02, C_hf = 3.0077e-02], A_hf = 3.2211e-02, V_hf = 1.9720e-02, time: 192.96s
+Epoch 39000:
+  Train-loss[total = 3.5413e-02, C_lf = 1.0775e-02, A/V_lf = 1.9340e-03, C_hf = 1.0298e-02, A/V_hf = 2.1362e-01],
+  Test-error[C_lf = 1.4520e-02, C_hf = 2.9865e-02], A_hf = 3.4659e-02, V_hf = 2.4328e-02, time: 198.06s
+Epoch 40000:
+  Train-loss[total = 3.5092e-02, C_lf = 1.0435e-02, A/V_lf = 2.1950e-03, C_hf = 1.1026e-02, A/V_hf = 1.5698e-01],
+  Test-error[C_lf = 1.5097e-02, C_hf = 3.1442e-02], A_hf = 3.2392e-02, V_hf = 1.4117e-02, time: 203.01s
+Epoch 41000:
+  Train-loss[total = 3.7263e-02, C_lf = 1.2253e-02, A/V_lf = 7.7656e-04, C_hf = 1.2418e-02, A/V_hf = 1.9426e-01],
+  Test-error[C_lf = 1.4116e-02, C_hf = 2.9783e-02], A_hf = 3.3619e-02, V_hf = 2.2013e-02, time: 207.92s
+Epoch 42000:
+  Train-loss[total = 3.1920e-02, C_lf = 9.6171e-03, A/V_lf = 3.1520e-04, C_hf = 7.6406e-03, A/V_hf = 1.3932e-01],
+  Test-error[C_lf = 1.3566e-02, C_hf = 2.9740e-02], A_hf = 2.9840e-02, V_hf = 1.5315e-02, time: 212.82s
+Epoch 43000:
+  Train-loss[total = 3.2832e-02, C_lf = 1.0523e-02, A/V_lf = 7.5910e-04, C_hf = 8.2324e-03, A/V_hf = 1.4919e-01],
+  Test-error[C_lf = 1.4202e-02, C_hf = 2.9612e-02], A_hf = 3.0126e-02, V_hf = 1.7780e-02, time: 217.83s
+Epoch 44000:
+  Train-loss[total = 3.2805e-02, C_lf = 1.0110e-02, A/V_lf = 1.3198e-03, C_hf = 9.5689e-03, A/V_hf = 1.1408e-01],
+  Test-error[C_lf = 1.3832e-02, C_hf = 2.9669e-02], A_hf = 2.8038e-02, V_hf = 1.0557e-02, time: 222.71s
+Epoch 45000:
+  Train-loss[total = 3.5634e-02, C_lf = 1.1591e-02, A/V_lf = 5.3383e-04, C_hf = 1.2824e-02, A/V_hf = 1.5045e-01],
+  Test-error[C_lf = 1.3696e-02, C_hf = 2.9551e-02], A_hf = 3.1290e-02, V_hf = 1.5116e-02, time: 227.61s
+Epoch 46000:
+  Train-loss[total = 3.3368e-02, C_lf = 1.0963e-02, A/V_lf = 6.8174e-04, C_hf = 1.0064e-02, A/V_hf = 1.4373e-01],
+  Test-error[C_lf = 1.3600e-02, C_hf = 2.8734e-02], A_hf = 2.9991e-02, V_hf = 1.6405e-02, time: 232.15s
+Epoch 47000:
+  Train-loss[total = 3.7787e-02, C_lf = 1.3447e-02, A/V_lf = 1.4738e-03, C_hf = 1.4434e-02, A/V_hf = 1.6727e-01],
+  Test-error[C_lf = 1.5023e-02, C_hf = 3.0653e-02], A_hf = 3.2787e-02, V_hf = 1.6532e-02, time: 237.08s
+Epoch 48000:
+  Train-loss[total = 3.1348e-02, C_lf = 1.0011e-02, A/V_lf = 6.0312e-04, C_hf = 8.9166e-03, A/V_hf = 1.1484e-01],
+  Test-error[C_lf = 1.4017e-02, C_hf = 2.9133e-02], A_hf = 2.7467e-02, V_hf = 1.2823e-02, time: 242.05s
+Epoch 49000:
+  Train-loss[total = 2.9556e-02, C_lf = 9.0501e-03, A/V_lf = 5.0522e-04, C_hf = 7.7037e-03, A/V_hf = 1.5478e-01],
+  Test-error[C_lf = 1.3745e-02, C_hf = 2.9103e-02], A_hf = 3.0751e-02, V_hf = 1.7953e-02, time: 247.02s
+Epoch 50000:
+  Train-loss[total = 2.9168e-02, C_lf = 8.8329e-03, A/V_lf = 1.8096e-03, C_hf = 7.7819e-03, A/V_hf = 1.3436e-01],
+  Test-error[C_lf = 1.3622e-02, C_hf = 2.8531e-02], A_hf = 2.9304e-02, V_hf = 1.5041e-02, time: 251.87s
+Epoch 51000:
+  Train-loss[total = 3.0465e-02, C_lf = 9.5452e-03, A/V_lf = 4.0558e-04, C_hf = 9.3901e-03, A/V_hf = 1.2845e-01],
+  Test-error[C_lf = 1.4566e-02, C_hf = 2.9784e-02], A_hf = 2.8604e-02, V_hf = 1.4838e-02, time: 256.92s
+Epoch 52000:
+  Train-loss[total = 3.0052e-02, C_lf = 9.6281e-03, A/V_lf = 1.6880e-04, C_hf = 8.8000e-03, A/V_hf = 8.0560e-02],
+  Test-error[C_lf = 1.3660e-02, C_hf = 3.0278e-02], A_hf = 2.3658e-02, V_hf = 8.4989e-03, time: 261.96s
+Epoch 53000:
+  Train-loss[total = 3.0066e-02, C_lf = 1.0056e-02, A/V_lf = 3.5893e-04, C_hf = 8.3616e-03, A/V_hf = 1.3677e-01],
+  Test-error[C_lf = 1.3412e-02, C_hf = 2.9108e-02], A_hf = 2.8716e-02, V_hf = 1.7331e-02, time: 266.83s
+Epoch 54000:
+  Train-loss[total = 3.6530e-02, C_lf = 1.3973e-02, A/V_lf = 3.7761e-04, C_hf = 1.3823e-02, A/V_hf = 1.4478e-01],
+  Test-error[C_lf = 1.3897e-02, C_hf = 2.9590e-02], A_hf = 3.0352e-02, V_hf = 1.5796e-02, time: 271.49s
+Epoch 55000:
+  Train-loss[total = 2.8917e-02, C_lf = 9.4709e-03, A/V_lf = 2.8599e-04, C_hf = 7.9461e-03, A/V_hf = 1.5745e-01],
+  Test-error[C_lf = 1.3293e-02, C_hf = 2.8502e-02], A_hf = 3.0724e-02, V_hf = 1.8796e-02, time: 276.39s
+Epoch 56000:
+  Train-loss[total = 3.1491e-02, C_lf = 1.1059e-02, A/V_lf = 2.7952e-04, C_hf = 1.0261e-02, A/V_hf = 1.3279e-01],
+  Test-error[C_lf = 1.3709e-02, C_hf = 2.9703e-02], A_hf = 2.8390e-02, V_hf = 1.6851e-02, time: 281.09s
+Epoch 57000:
+  Train-loss[total = 2.9591e-02, C_lf = 1.0327e-02, A/V_lf = 9.5461e-04, C_hf = 8.2436e-03, A/V_hf = 1.7223e-01],
+  Test-error[C_lf = 1.3721e-02, C_hf = 2.8999e-02], A_hf = 3.1139e-02, V_hf = 2.1807e-02, time: 286.17s
+Epoch 58000:
+  Train-loss[total = 2.8864e-02, C_lf = 9.7986e-03, A/V_lf = 4.0120e-04, C_hf = 8.1640e-03, A/V_hf = 1.3971e-01],
+  Test-error[C_lf = 1.3318e-02, C_hf = 2.9044e-02], A_hf = 2.9506e-02, V_hf = 1.6333e-02, time: 291.10s
+Epoch 59000:
+  Train-loss[total = 2.7809e-02, C_lf = 9.2425e-03, A/V_lf = 5.8067e-05, C_hf = 7.4694e-03, A/V_hf = 1.3788e-01],
+  Test-error[C_lf = 1.3382e-02, C_hf = 2.8157e-02], A_hf = 2.8524e-02, V_hf = 1.8104e-02, time: 295.77s
+Epoch 60000:
+  Train-loss[total = 3.0244e-02, C_lf = 1.0197e-02, A/V_lf = 4.2929e-03, C_hf = 1.0628e-02, A/V_hf = 1.4668e-01],
+  Test-error[C_lf = 1.3410e-02, C_hf = 2.8750e-02], A_hf = 2.8621e-02, V_hf = 2.0357e-02, time: 300.70s
+Epoch 61000:
+  Train-loss[total = 3.0231e-02, C_lf = 1.0593e-02, A/V_lf = 7.6323e-04, C_hf = 1.0146e-02, A/V_hf = 9.9071e-02],
+  Test-error[C_lf = 1.3555e-02, C_hf = 2.8352e-02], A_hf = 2.5583e-02, V_hf = 1.1690e-02, time: 305.75s
+Epoch 62000:
+  Train-loss[total = 2.7852e-02, C_lf = 9.5260e-03, A/V_lf = 6.2508e-04, C_hf = 7.7867e-03, A/V_hf = 1.1283e-01],
+  Test-error[C_lf = 1.3482e-02, C_hf = 2.8270e-02], A_hf = 2.6734e-02, V_hf = 1.4108e-02, time: 310.77s
+Epoch 63000:
+  Train-loss[total = 2.8220e-02, C_lf = 9.6566e-03, A/V_lf = 2.6680e-04, C_hf = 8.5344e-03, A/V_hf = 1.1674e-01],
+  Test-error[C_lf = 1.3279e-02, C_hf = 2.8835e-02], A_hf = 2.7128e-02, V_hf = 1.4525e-02, time: 315.84s
+Epoch 64000:
+  Train-loss[total = 2.6746e-02, C_lf = 8.6286e-03, A/V_lf = 3.0526e-04, C_hf = 7.8806e-03, A/V_hf = 9.8962e-02],
+  Test-error[C_lf = 1.3687e-02, C_hf = 2.8623e-02], A_hf = 2.5569e-02, V_hf = 1.1683e-02, time: 320.88s
+Epoch 65000:
+  Train-loss[total = 3.0987e-02, C_lf = 1.1470e-02, A/V_lf = 7.1334e-04, C_hf = 1.0909e-02, A/V_hf = 1.3379e-01],
+  Test-error[C_lf = 1.4270e-02, C_hf = 2.9122e-02], A_hf = 2.8262e-02, V_hf = 1.7464e-02, time: 325.82s
+Epoch 66000:
+  Train-loss[total = 2.7961e-02, C_lf = 9.3837e-03, A/V_lf = 3.1972e-04, C_hf = 9.2766e-03, A/V_hf = 1.3509e-01],
+  Test-error[C_lf = 1.3449e-02, C_hf = 2.8261e-02], A_hf = 2.7619e-02, V_hf = 1.9228e-02, time: 330.70s
+Epoch 67000:
+  Train-loss[total = 2.7298e-02, C_lf = 9.3724e-03, A/V_lf = 3.4619e-04, C_hf = 8.1959e-03, A/V_hf = 1.2293e-01],
+  Test-error[C_lf = 1.3243e-02, C_hf = 2.8348e-02], A_hf = 2.7748e-02, V_hf = 1.5139e-02, time: 335.69s
+Epoch 68000:
+  Train-loss[total = 2.9936e-02, C_lf = 1.0500e-02, A/V_lf = 1.7737e-03, C_hf = 1.1392e-02, A/V_hf = 1.3200e-01],
+  Test-error[C_lf = 1.4335e-02, C_hf = 2.9238e-02], A_hf = 2.7198e-02, V_hf = 1.9216e-02, time: 340.70s
+Epoch 69000:
+  Train-loss[total = 3.0777e-02, C_lf = 1.1078e-02, A/V_lf = 8.3249e-04, C_hf = 1.2136e-02, A/V_hf = 1.1010e-01],
+  Test-error[C_lf = 1.5048e-02, C_hf = 2.9161e-02], A_hf = 2.6424e-02, V_hf = 1.3896e-02, time: 345.69s
+Epoch 70000:
+  Train-loss[total = 2.9883e-02, C_lf = 1.1010e-02, A/V_lf = 3.0403e-04, C_hf = 1.0691e-02, A/V_hf = 8.1635e-02],
+  Test-error[C_lf = 1.4886e-02, C_hf = 2.8832e-02], A_hf = 2.3715e-02, V_hf = 8.9404e-03, time: 350.62s
+Epoch 71000:
+  Train-loss[total = 3.2170e-02, C_lf = 1.2572e-02, A/V_lf = 2.9384e-04, C_hf = 1.2344e-02, A/V_hf = 8.9063e-02],
+  Test-error[C_lf = 1.3452e-02, C_hf = 2.7741e-02], A_hf = 2.4278e-02, V_hf = 1.1015e-02, time: 355.72s
+Epoch 72000:
+  Train-loss[total = 2.8701e-02, C_lf = 9.8679e-03, A/V_lf = 3.2608e-04, C_hf = 1.0995e-02, A/V_hf = 1.1898e-01],
+  Test-error[C_lf = 1.3775e-02, C_hf = 2.7984e-02], A_hf = 2.6114e-02, V_hf = 1.7647e-02, time: 360.83s
+Epoch 73000:
+  Train-loss[total = 2.5579e-02, C_lf = 8.1248e-03, A/V_lf = 1.5872e-03, C_hf = 8.3947e-03, A/V_hf = 1.5069e-01],
+  Test-error[C_lf = 1.3610e-02, C_hf = 2.8216e-02], A_hf = 2.8527e-02, V_hf = 2.1563e-02, time: 365.74s
+Epoch 74000:
+  Train-loss[total = 2.4482e-02, C_lf = 7.7757e-03, A/V_lf = 3.4624e-04, C_hf = 7.0890e-03, A/V_hf = 9.0213e-02],
+  Test-error[C_lf = 1.3200e-02, C_hf = 2.8259e-02], A_hf = 2.4287e-02, V_hf = 1.1536e-02, time: 370.70s
+Epoch 75000:
+  Train-loss[total = 2.6685e-02, C_lf = 9.4582e-03, A/V_lf = 3.8514e-04, C_hf = 8.2923e-03, A/V_hf = 1.0230e-01],
+  Test-error[C_lf = 1.3728e-02, C_hf = 2.8743e-02], A_hf = 2.4633e-02, V_hf = 1.5453e-02, time: 375.57s
+Epoch 76000:
+  Train-loss[total = 2.6076e-02, C_lf = 9.0408e-03, A/V_lf = 4.9458e-04, C_hf = 8.0717e-03, A/V_hf = 8.3400e-02],
+  Test-error[C_lf = 1.3560e-02, C_hf = 2.8010e-02], A_hf = 2.3249e-02, V_hf = 1.1393e-02, time: 380.49s
+Epoch 77000:
+  Train-loss[total = 2.4666e-02, C_lf = 8.0882e-03, A/V_lf = 7.1079e-04, C_hf = 7.3136e-03, A/V_hf = 1.4181e-01],
+  Test-error[C_lf = 1.3378e-02, C_hf = 2.7331e-02], A_hf = 2.8145e-02, V_hf = 2.0009e-02, time: 385.52s
+Epoch 78000:
+  Train-loss[total = 2.5960e-02, C_lf = 9.1759e-03, A/V_lf = 3.1750e-05, C_hf = 7.8844e-03, A/V_hf = 8.1190e-02],
+  Test-error[C_lf = 1.3901e-02, C_hf = 2.7589e-02], A_hf = 2.3251e-02, V_hf = 1.0293e-02, time: 390.45s
+Epoch 79000:
+  Train-loss[total = 2.5092e-02, C_lf = 8.0709e-03, A/V_lf = 1.2068e-03, C_hf = 8.4768e-03, A/V_hf = 1.0857e-01],
+  Test-error[C_lf = 1.3560e-02, C_hf = 2.8164e-02], A_hf = 2.4797e-02, V_hf = 1.7164e-02, time: 395.34s
+Epoch 80000:
+  Train-loss[total = 2.4071e-02, C_lf = 7.6815e-03, A/V_lf = 5.6324e-05, C_hf = 7.3832e-03, A/V_hf = 1.1388e-01],
+  Test-error[C_lf = 1.3727e-02, C_hf = 2.8760e-02], A_hf = 2.5951e-02, V_hf = 1.6392e-02, time: 400.32s
+Epoch 81000:
+  Train-loss[total = 2.5273e-02, C_lf = 9.1082e-03, A/V_lf = 9.0702e-04, C_hf = 7.0415e-03, A/V_hf = 8.4214e-02],
+  Test-error[C_lf = 1.3674e-02, C_hf = 2.8876e-02], A_hf = 2.3217e-02, V_hf = 1.1860e-02, time: 405.32s
+Epoch 82000:
+  Train-loss[total = 2.7125e-02, C_lf = 9.9176e-03, A/V_lf = 2.5229e-04, C_hf = 9.2812e-03, A/V_hf = 1.1197e-01],
+  Test-error[C_lf = 1.3373e-02, C_hf = 2.6836e-02], A_hf = 2.5645e-02, V_hf = 1.6447e-02, time: 410.24s
+Epoch 83000:
+  Train-loss[total = 2.5901e-02, C_lf = 8.8661e-03, A/V_lf = 2.9987e-04, C_hf = 9.0576e-03, A/V_hf = 9.7333e-02],
+  Test-error[C_lf = 1.2918e-02, C_hf = 2.7515e-02], A_hf = 2.3417e-02, V_hf = 1.6376e-02, time: 415.12s
+Epoch 84000:
+  Train-loss[total = 2.4510e-02, C_lf = 8.2435e-03, A/V_lf = 1.2368e-04, C_hf = 7.6454e-03, A/V_hf = 7.6510e-02],
+  Test-error[C_lf = 1.3117e-02, C_hf = 2.7069e-02], A_hf = 2.2139e-02, V_hf = 1.1277e-02, time: 420.01s
+Epoch 85000:
+  Train-loss[total = 2.4825e-02, C_lf = 8.5203e-03, A/V_lf = 4.4424e-04, C_hf = 7.8375e-03, A/V_hf = 7.5188e-02],
+  Test-error[C_lf = 1.3307e-02, C_hf = 2.7497e-02], A_hf = 2.1889e-02, V_hf = 1.1339e-02, time: 425.03s
+Epoch 86000:
+  Train-loss[total = 2.5454e-02, C_lf = 9.4249e-03, A/V_lf = 6.2817e-04, C_hf = 7.3997e-03, A/V_hf = 7.6894e-02],
+  Test-error[C_lf = 1.3765e-02, C_hf = 2.7942e-02], A_hf = 2.2310e-02, V_hf = 1.0980e-02, time: 429.85s
+Epoch 87000:
+  Train-loss[total = 2.4041e-02, C_lf = 8.3669e-03, A/V_lf = 7.1963e-04, C_hf = 6.8059e-03, A/V_hf = 7.4529e-02],
+  Test-error[C_lf = 1.3103e-02, C_hf = 2.7735e-02], A_hf = 2.2118e-02, V_hf = 1.0357e-02, time: 434.76s
+Epoch 88000:
+  Train-loss[total = 2.6368e-02, C_lf = 9.9102e-03, A/V_lf = 1.3955e-04, C_hf = 8.4833e-03, A/V_hf = 6.1204e-02],
+  Test-error[C_lf = 1.3317e-02, C_hf = 2.7170e-02], A_hf = 2.0814e-02, V_hf = 6.6001e-03, time: 439.77s
+Epoch 89000:
+  Train-loss[total = 2.5383e-02, C_lf = 9.0003e-03, A/V_lf = 2.7760e-04, C_hf = 8.4486e-03, A/V_hf = 7.3775e-02],
+  Test-error[C_lf = 1.3753e-02, C_hf = 2.7505e-02], A_hf = 2.2330e-02, V_hf = 9.2640e-03, time: 444.70s
+Epoch 90000:
+  Train-loss[total = 2.4442e-02, C_lf = 9.0693e-03, A/V_lf = 3.7412e-03, C_hf = 6.4631e-03, A/V_hf = 1.1294e-01],
+  Test-error[C_lf = 1.3222e-02, C_hf = 2.7588e-02], A_hf = 2.5419e-02, V_hf = 1.7241e-02, time: 449.61s
+Epoch 91000:
+  Train-loss[total = 2.4155e-02, C_lf = 8.5311e-03, A/V_lf = 7.5588e-05, C_hf = 7.1449e-03, A/V_hf = 8.5908e-02],
+  Test-error[C_lf = 1.2945e-02, C_hf = 2.6912e-02], A_hf = 2.2934e-02, V_hf = 1.3315e-02, time: 454.49s
+Epoch 92000:
+  Train-loss[total = 2.3507e-02, C_lf = 8.2785e-03, A/V_lf = 1.1017e-05, C_hf = 6.4591e-03, A/V_hf = 9.0204e-02],
+  Test-error[C_lf = 1.3190e-02, C_hf = 2.7656e-02], A_hf = 2.3165e-02, V_hf = 1.4434e-02, time: 459.43s
+Epoch 93000:
+  Train-loss[total = 2.3269e-02, C_lf = 7.4780e-03, A/V_lf = 1.4426e-03, C_hf = 7.6453e-03, A/V_hf = 9.7814e-02],
+  Test-error[C_lf = 1.2796e-02, C_hf = 2.6823e-02], A_hf = 2.3747e-02, V_hf = 1.5852e-02, time: 464.31s
+Epoch 94000:
+  Train-loss[total = 2.3613e-02, C_lf = 7.5104e-03, A/V_lf = 4.3299e-05, C_hf = 8.3945e-03, A/V_hf = 8.3865e-02],
+  Test-error[C_lf = 1.3016e-02, C_hf = 2.7066e-02], A_hf = 2.2297e-02, V_hf = 1.4005e-02, time: 469.35s
+Epoch 95000:
+  Train-loss[total = 2.3310e-02, C_lf = 8.2436e-03, A/V_lf = 1.4833e-04, C_hf = 6.4099e-03, A/V_hf = 7.6264e-02],
+  Test-error[C_lf = 1.2804e-02, C_hf = 2.6672e-02], A_hf = 2.2142e-02, V_hf = 1.1152e-02, time: 474.27s
+Epoch 96000:
+  Train-loss[total = 2.2716e-02, C_lf = 7.4552e-03, A/V_lf = 1.2222e-04, C_hf = 6.8952e-03, A/V_hf = 1.0058e-01],
+  Test-error[C_lf = 1.3492e-02, C_hf = 2.7607e-02], A_hf = 2.3667e-02, V_hf = 1.6920e-02, time: 479.23s
+Epoch 97000:
+  Train-loss[total = 2.4605e-02, C_lf = 8.5291e-03, A/V_lf = 2.1570e-03, C_hf = 8.5699e-03, A/V_hf = 1.2343e-01],
+  Test-error[C_lf = 1.3635e-02, C_hf = 2.6930e-02], A_hf = 2.5082e-02, V_hf = 2.0831e-02, time: 484.28s
+Epoch 98000:
+  Train-loss[total = 2.4024e-02, C_lf = 8.6420e-03, A/V_lf = 6.9145e-05, C_hf = 7.3014e-03, A/V_hf = 5.3804e-02],
+  Test-error[C_lf = 1.3426e-02, C_hf = 2.6336e-02], A_hf = 1.9081e-02, V_hf = 7.8734e-03, time: 489.29s
+Epoch 99000:
+  Train-loss[total = 2.5521e-02, C_lf = 8.8314e-03, A/V_lf = 1.0368e-04, C_hf = 9.9946e-03, A/V_hf = 5.1463e-02],
+  Test-error[C_lf = 1.3068e-02, C_hf = 2.7356e-02], A_hf = 1.9005e-02, V_hf = 6.4024e-03, time: 494.21s
+Epoch 100000:
+  Train-loss[total = 2.2109e-02, C_lf = 7.4817e-03, A/V_lf = 2.6600e-04, C_hf = 5.9574e-03, A/V_hf = 6.5841e-02],
+  Test-error[C_lf = 1.3159e-02, C_hf = 2.6644e-02], A_hf = 2.0682e-02, V_hf = 1.0052e-02, time: 499.12s
+Epoch 101000:
+  Train-loss[total = 2.7736e-02, C_lf = 1.0563e-02, A/V_lf = 1.3919e-03, C_hf = 1.1103e-02, A/V_hf = 5.6731e-02],
+  Test-error[C_lf = 1.3067e-02, C_hf = 2.6680e-02], A_hf = 1.9520e-02, V_hf = 8.3301e-03, time: 503.92s
+Epoch 102000:
+  Train-loss[total = 2.5353e-02, C_lf = 9.3834e-03, A/V_lf = 1.6256e-04, C_hf = 8.7957e-03, A/V_hf = 6.9311e-02],
+  Test-error[C_lf = 1.3312e-02, C_hf = 2.6467e-02], A_hf = 2.0870e-02, V_hf = 1.1279e-02, time: 508.69s
+Epoch 103000:
+  Train-loss[total = 2.3465e-02, C_lf = 8.4330e-03, A/V_lf = 3.7912e-05, C_hf = 7.0003e-03, A/V_hf = 5.8917e-02],
+  Test-error[C_lf = 1.2742e-02, C_hf = 2.6971e-02], A_hf = 1.9832e-02, V_hf = 8.6884e-03, time: 513.70s
+Epoch 104000:
+  Train-loss[total = 2.5786e-02, C_lf = 9.9843e-03, A/V_lf = 9.2979e-05, C_hf = 8.6148e-03, A/V_hf = 8.1412e-02],
+  Test-error[C_lf = 1.3164e-02, C_hf = 2.7116e-02], A_hf = 2.1822e-02, V_hf = 1.4123e-02, time: 518.61s
+Epoch 105000:
+  Train-loss[total = 2.7419e-02, C_lf = 1.0605e-02, A/V_lf = 1.3968e-04, C_hf = 1.0709e-02, A/V_hf = 6.2185e-02],
+  Test-error[C_lf = 1.4391e-02, C_hf = 2.6605e-02], A_hf = 2.0005e-02, V_hf = 1.0041e-02, time: 523.64s
+Epoch 106000:
+  Train-loss[total = 2.3699e-02, C_lf = 8.8361e-03, A/V_lf = 3.6975e-05, C_hf = 6.8774e-03, A/V_hf = 7.0542e-02],
+  Test-error[C_lf = 1.3104e-02, C_hf = 2.6102e-02], A_hf = 2.0693e-02, V_hf = 1.2281e-02, time: 528.64s
+Epoch 107000:
+  Train-loss[total = 2.5263e-02, C_lf = 9.6495e-03, A/V_lf = 3.3427e-04, C_hf = 8.4464e-03, A/V_hf = 5.4407e-02],
+  Test-error[C_lf = 1.2639e-02, C_hf = 2.6557e-02], A_hf = 1.9161e-02, V_hf = 8.0085e-03, time: 533.59s
+Epoch 108000:
+  Train-loss[total = 2.3751e-02, C_lf = 8.6300e-03, A/V_lf = 1.6643e-04, C_hf = 7.5323e-03, A/V_hf = 6.4007e-02],
+  Test-error[C_lf = 1.3054e-02, C_hf = 2.6664e-02], A_hf = 2.0272e-02, V_hf = 1.0252e-02, time: 538.57s
+Epoch 109000:
+  Train-loss[total = 2.4462e-02, C_lf = 9.2719e-03, A/V_lf = 2.1958e-03, C_hf = 7.7000e-03, A/V_hf = 7.1818e-02],
+  Test-error[C_lf = 1.2812e-02, C_hf = 2.6649e-02], A_hf = 2.0642e-02, V_hf = 1.2942e-02, time: 543.44s
+Epoch 110000:
+  Train-loss[total = 2.4764e-02, C_lf = 9.5779e-03, A/V_lf = 2.8079e-05, C_hf = 7.8065e-03, A/V_hf = 5.7707e-02],
+  Test-error[C_lf = 1.2873e-02, C_hf = 2.6669e-02], A_hf = 1.9498e-02, V_hf = 9.0055e-03, time: 548.28s
+Epoch 111000:
+  Train-loss[total = 2.7059e-02, C_lf = 1.0651e-02, A/V_lf = 3.2262e-04, C_hf = 1.0303e-02, A/V_hf = 4.8144e-02],
+  Test-error[C_lf = 1.3190e-02, C_hf = 2.6162e-02], A_hf = 1.8484e-02, V_hf = 5.7446e-03, time: 553.04s
+Epoch 112000:
+  Train-loss[total = 2.4763e-02, C_lf = 8.8884e-03, A/V_lf = 2.2037e-04, C_hf = 9.2970e-03, A/V_hf = 4.4943e-02],
+  Test-error[C_lf = 1.2609e-02, C_hf = 2.6416e-02], A_hf = 1.8015e-02, V_hf = 4.7865e-03, time: 558.18s
+Epoch 113000:
+  Train-loss[total = 2.8705e-02, C_lf = 1.1553e-02, A/V_lf = 2.6226e-03, C_hf = 1.1876e-02, A/V_hf = 7.2870e-02],
+  Test-error[C_lf = 1.3483e-02, C_hf = 2.7389e-02], A_hf = 2.1657e-02, V_hf = 1.0864e-02, time: 563.24s
+Epoch 114000:
+  Train-loss[total = 2.2797e-02, C_lf = 8.6319e-03, A/V_lf = 1.6107e-04, C_hf = 5.9986e-03, A/V_hf = 5.8371e-02],
+  Test-error[C_lf = 1.2673e-02, C_hf = 2.6300e-02], A_hf = 1.9430e-02, V_hf = 9.5902e-03, time: 568.27s
+Epoch 115000:
+  Train-loss[total = 2.5399e-02, C_lf = 9.9977e-03, A/V_lf = 7.8790e-04, C_hf = 8.5241e-03, A/V_hf = 5.4056e-02],
+  Test-error[C_lf = 1.3206e-02, C_hf = 2.6806e-02], A_hf = 1.8871e-02, V_hf = 8.7146e-03, time: 573.22s
+Epoch 116000:
+  Train-loss[total = 2.3401e-02, C_lf = 8.9680e-03, A/V_lf = 3.3815e-04, C_hf = 6.6598e-03, A/V_hf = 6.6257e-02],
+  Test-error[C_lf = 1.3496e-02, C_hf = 2.6368e-02], A_hf = 2.0274e-02, V_hf = 1.1364e-02, time: 578.00s
+Epoch 117000:
+  Train-loss[total = 2.2110e-02, C_lf = 7.8701e-03, A/V_lf = 1.5643e-05, C_hf = 6.3343e-03, A/V_hf = 6.4813e-02],
+  Test-error[C_lf = 1.3412e-02, C_hf = 2.6806e-02], A_hf = 1.9329e-02, V_hf = 1.2907e-02, time: 582.88s
+Epoch 118000:
+  Train-loss[total = 2.2237e-02, C_lf = 7.9437e-03, A/V_lf = 2.4303e-06, C_hf = 6.4887e-03, A/V_hf = 6.6387e-02],
+  Test-error[C_lf = 1.2990e-02, C_hf = 2.6046e-02], A_hf = 1.9907e-02, V_hf = 1.2305e-02, time: 587.85s
+Epoch 119000:
+  Train-loss[total = 2.2547e-02, C_lf = 7.9999e-03, A/V_lf = 8.0652e-06, C_hf = 7.0567e-03, A/V_hf = 4.0902e-02],
+  Test-error[C_lf = 1.2620e-02, C_hf = 2.5844e-02], A_hf = 1.6970e-02, V_hf = 5.5931e-03, time: 592.92s
+Epoch 120000:
+  Train-loss[total = 2.1959e-02, C_lf = 7.9074e-03, A/V_lf = 7.5098e-04, C_hf = 6.1013e-03, A/V_hf = 6.8894e-02],
+  Test-error[C_lf = 1.2541e-02, C_hf = 2.5616e-02], A_hf = 2.0116e-02, V_hf = 1.2901e-02, time: 598.01s
+Epoch 121000:
+  Train-loss[total = 2.2840e-02, C_lf = 8.5342e-03, A/V_lf = 2.9963e-06, C_hf = 6.6730e-03, A/V_hf = 4.0423e-02],
+  Test-error[C_lf = 1.3078e-02, C_hf = 2.6063e-02], A_hf = 1.6344e-02, V_hf = 7.4593e-03, time: 602.90s
+Epoch 122000:
+  Train-loss[total = 2.1629e-02, C_lf = 7.4783e-03, A/V_lf = 1.0642e-05, C_hf = 6.4298e-03, A/V_hf = 6.5580e-02],
+  Test-error[C_lf = 1.2945e-02, C_hf = 2.6533e-02], A_hf = 1.9946e-02, V_hf = 1.1855e-02, time: 607.82s
+Epoch 123000:
+  Train-loss[total = 2.2183e-02, C_lf = 7.8889e-03, A/V_lf = 1.8005e-04, C_hf = 6.7646e-03, A/V_hf = 5.4719e-02],
+  Test-error[C_lf = 1.2713e-02, C_hf = 2.5752e-02], A_hf = 1.8055e-02, V_hf = 1.1213e-02, time: 612.83s
+Epoch 124000:
+  Train-loss[total = 2.3800e-02, C_lf = 9.5160e-03, A/V_lf = 7.2965e-04, C_hf = 6.7902e-03, A/V_hf = 6.2762e-02],
+  Test-error[C_lf = 1.2942e-02, C_hf = 2.5973e-02], A_hf = 1.9614e-02, V_hf = 1.1354e-02, time: 617.87s
+Epoch 125000:
+  Train-loss[total = 2.1500e-02, C_lf = 7.5850e-03, A/V_lf = 5.1253e-05, C_hf = 6.1035e-03, A/V_hf = 6.0270e-02],
+  Test-error[C_lf = 1.2603e-02, C_hf = 2.5819e-02], A_hf = 1.9337e-02, V_hf = 1.0837e-02, time: 622.86s
+Epoch 126000:
+  Train-loss[total = 2.3253e-02, C_lf = 8.5016e-03, A/V_lf = 3.4917e-05, C_hf = 7.8102e-03, A/V_hf = 3.9904e-02],
+  Test-error[C_lf = 1.3112e-02, C_hf = 2.6266e-02], A_hf = 1.6798e-02, V_hf = 5.3636e-03, time: 627.75s
+Epoch 127000:
+  Train-loss[total = 2.1695e-02, C_lf = 7.6686e-03, A/V_lf = 1.5375e-03, C_hf = 6.3842e-03, A/V_hf = 4.3627e-02],
+  Test-error[C_lf = 1.2857e-02, C_hf = 2.6082e-02], A_hf = 1.7018e-02, V_hf = 7.6285e-03, time: 632.75s
+Epoch 128000:
+  Train-loss[total = 2.2814e-02, C_lf = 8.8012e-03, A/V_lf = 1.2923e-03, C_hf = 6.4114e-03, A/V_hf = 6.0091e-02],
+  Test-error[C_lf = 1.2654e-02, C_hf = 2.5419e-02], A_hf = 1.9006e-02, V_hf = 1.1554e-02, time: 637.75s
+Epoch 129000:
+  Train-loss[total = 2.3666e-02, C_lf = 9.0383e-03, A/V_lf = 7.5324e-05, C_hf = 7.7026e-03, A/V_hf = 4.1516e-02],
+  Test-error[C_lf = 1.2691e-02, C_hf = 2.5742e-02], A_hf = 1.6550e-02, V_hf = 7.6002e-03, time: 642.72s
+Epoch 130000:
+  Train-loss[total = 2.2229e-02, C_lf = 7.9263e-03, A/V_lf = 1.4004e-04, C_hf = 7.1066e-03, A/V_hf = 5.4067e-02],
+  Test-error[C_lf = 1.2709e-02, C_hf = 2.5918e-02], A_hf = 1.8686e-02, V_hf = 9.2678e-03, time: 647.54s
+Epoch 131000:
+  Train-loss[total = 2.5324e-02, C_lf = 9.5629e-03, A/V_lf = 2.3841e-04, C_hf = 1.0062e-02, A/V_hf = 3.3802e-02],
+  Test-error[C_lf = 1.3020e-02, C_hf = 2.6136e-02], A_hf = 1.5946e-02, V_hf = 1.6736e-03, time: 652.34s
+Epoch 132000:
+  Train-loss[total = 2.2604e-02, C_lf = 8.5559e-03, A/V_lf = 1.0964e-03, C_hf = 6.6792e-03, A/V_hf = 6.5236e-02],
+  Test-error[C_lf = 1.2469e-02, C_hf = 2.5507e-02], A_hf = 1.9589e-02, V_hf = 1.2522e-02, time: 656.87s
+Epoch 133000:
+  Train-loss[total = 2.3526e-02, C_lf = 9.2584e-03, A/V_lf = 1.7875e-05, C_hf = 7.1877e-03, A/V_hf = 5.5395e-02],
+  Test-error[C_lf = 1.2766e-02, C_hf = 2.5883e-02], A_hf = 1.8129e-02, V_hf = 1.1367e-02, time: 661.58s
+Epoch 134000:
+  Train-loss[total = 2.2960e-02, C_lf = 8.6893e-03, A/V_lf = 2.2993e-04, C_hf = 7.2239e-03, A/V_hf = 5.5295e-02],
+  Test-error[C_lf = 1.3423e-02, C_hf = 2.5669e-02], A_hf = 1.8246e-02, V_hf = 1.1050e-02, time: 666.46s
+Epoch 135000:
+  Train-loss[total = 2.2857e-02, C_lf = 8.5625e-03, A/V_lf = 5.6100e-04, C_hf = 7.3045e-03, A/V_hf = 5.0062e-02],
+  Test-error[C_lf = 1.2845e-02, C_hf = 2.5444e-02], A_hf = 1.8046e-02, V_hf = 8.7304e-03, time: 671.42s
+Epoch 136000:
+  Train-loss[total = 2.1720e-02, C_lf = 8.1910e-03, A/V_lf = 5.8332e-07, C_hf = 5.8323e-03, A/V_hf = 4.1667e-02],
+  Test-error[C_lf = 1.2760e-02, C_hf = 2.5349e-02], A_hf = 1.6409e-02, V_hf = 8.1233e-03, time: 676.35s
+Epoch 137000:
+  Train-loss[total = 2.1297e-02, C_lf = 7.8634e-03, A/V_lf = 1.1851e-03, C_hf = 5.6566e-03, A/V_hf = 5.5064e-02],
+  Test-error[C_lf = 1.2616e-02, C_hf = 2.5645e-02], A_hf = 1.8508e-02, V_hf = 1.0294e-02, time: 681.18s
+Epoch 138000:
+  Train-loss[total = 2.2534e-02, C_lf = 8.4116e-03, A/V_lf = 3.1638e-04, C_hf = 7.0932e-03, A/V_hf = 3.7518e-02],
+  Test-error[C_lf = 1.2436e-02, C_hf = 2.5731e-02], A_hf = 1.5924e-02, V_hf = 6.6066e-03, time: 686.25s
+Epoch 139000:
+  Train-loss[total = 2.0869e-02, C_lf = 7.5937e-03, A/V_lf = 4.0362e-05, C_hf = 5.4508e-03, A/V_hf = 5.9171e-02],
+  Test-error[C_lf = 1.2916e-02, C_hf = 2.6055e-02], A_hf = 1.8574e-02, V_hf = 1.2106e-02, time: 691.33s
+Epoch 140000:
+  Train-loss[total = 2.1736e-02, C_lf = 7.8681e-03, A/V_lf = 7.4818e-04, C_hf = 6.6681e-03, A/V_hf = 4.0344e-02],
+  Test-error[C_lf = 1.2850e-02, C_hf = 2.5965e-02], A_hf = 1.6502e-02, V_hf = 6.8875e-03, time: 696.26s
+Epoch 141000:
+  Train-loss[total = 2.8825e-02, C_lf = 1.2565e-02, A/V_lf = 1.8525e-03, C_hf = 1.1464e-02, A/V_hf = 6.5721e-02],
+  Test-error[C_lf = 1.2604e-02, C_hf = 2.5725e-02], A_hf = 1.9052e-02, V_hf = 1.3833e-02, time: 701.12s
+Epoch 142000:
+  Train-loss[total = 2.1860e-02, C_lf = 7.4734e-03, A/V_lf = 1.2371e-04, C_hf = 7.7959e-03, A/V_hf = 4.2649e-02],
+  Test-error[C_lf = 1.2371e-02, C_hf = 2.5078e-02], A_hf = 1.6910e-02, V_hf = 7.2734e-03, time: 706.14s
+Epoch 143000:
+  Train-loss[total = 2.5773e-02, C_lf = 1.0504e-02, A/V_lf = 1.2461e-03, C_hf = 9.5757e-03, A/V_hf = 6.4063e-02],
+  Test-error[C_lf = 1.3288e-02, C_hf = 2.5737e-02], A_hf = 1.9278e-02, V_hf = 1.2703e-02, time: 711.21s
+Epoch 144000:
+  Train-loss[total = 2.0879e-02, C_lf = 7.6559e-03, A/V_lf = 5.5873e-05, C_hf = 5.5402e-03, A/V_hf = 3.0356e-02],
+  Test-error[C_lf = 1.3044e-02, C_hf = 2.6218e-02], A_hf = 1.4527e-02, V_hf = 5.1986e-03, time: 716.11s
+Epoch 145000:
+  Train-loss[total = 2.2626e-02, C_lf = 8.9599e-03, A/V_lf = 3.3041e-03, C_hf = 6.3930e-03, A/V_hf = 5.6286e-02],
+  Test-error[C_lf = 1.2656e-02, C_hf = 2.5456e-02], A_hf = 1.7930e-02, V_hf = 1.2202e-02, time: 720.98s
+Epoch 146000:
+  Train-loss[total = 2.2305e-02, C_lf = 8.4011e-03, A/V_lf = 3.3561e-04, C_hf = 6.9740e-03, A/V_hf = 4.2189e-02],
+  Test-error[C_lf = 1.2676e-02, C_hf = 2.5901e-02], A_hf = 1.6640e-02, V_hf = 7.7945e-03, time: 725.98s
+Epoch 147000:
+  Train-loss[total = 2.2262e-02, C_lf = 7.8654e-03, A/V_lf = 4.9335e-04, C_hf = 7.9878e-03, A/V_hf = 3.1973e-02],
+  Test-error[C_lf = 1.2904e-02, C_hf = 2.5993e-02], A_hf = 1.4593e-02, V_hf = 6.4554e-03, time: 731.02s
+Epoch 148000:
+  Train-loss[total = 2.2562e-02, C_lf = 8.6349e-03, A/V_lf = 3.4836e-04, C_hf = 7.0998e-03, A/V_hf = 4.1215e-02],
+  Test-error[C_lf = 1.2912e-02, C_hf = 2.6047e-02], A_hf = 1.5996e-02, V_hf = 8.9484e-03, time: 736.00s
+Epoch 149000:
+  Train-loss[total = 2.0885e-02, C_lf = 7.2249e-03, A/V_lf = 2.1052e-04, C_hf = 6.5970e-03, A/V_hf = 3.9739e-02],
+  Test-error[C_lf = 1.2549e-02, C_hf = 2.5316e-02], A_hf = 1.6101e-02, V_hf = 7.7102e-03, time: 740.95s
+Epoch 150000:
+  Train-loss[total = 2.2430e-02, C_lf = 8.4097e-03, A/V_lf = 2.4953e-04, C_hf = 7.3542e-03, A/V_hf = 3.1093e-02],
+  Test-error[C_lf = 1.2567e-02, C_hf = 2.5522e-02], A_hf = 1.4552e-02, V_hf = 5.8226e-03, time: 746.17s
+Epoch 151000:
+  Train-loss[total = 2.1593e-02, C_lf = 8.1735e-03, A/V_lf = 1.6659e-03, C_hf = 6.1643e-03, A/V_hf = 5.4768e-02],
+  Test-error[C_lf = 1.2608e-02, C_hf = 2.5370e-02], A_hf = 1.7979e-02, V_hf = 1.1406e-02, time: 751.22s
+Epoch 152000:
+  Train-loss[total = 2.2466e-02, C_lf = 8.2199e-03, A/V_lf = 4.6380e-04, C_hf = 7.8731e-03, A/V_hf = 4.6544e-02],
+  Test-error[C_lf = 1.2930e-02, C_hf = 2.5581e-02], A_hf = 1.7030e-02, V_hf = 9.4301e-03, time: 756.28s
+Epoch 153000:
+  Train-loss[total = 2.3114e-02, C_lf = 9.0859e-03, A/V_lf = 4.5436e-04, C_hf = 7.4774e-03, A/V_hf = 4.3397e-02],
+  Test-error[C_lf = 1.3650e-02, C_hf = 2.6043e-02], A_hf = 1.6398e-02, V_hf = 9.2229e-03, time: 761.31s
+Epoch 154000:
+  Train-loss[total = 2.1281e-02, C_lf = 7.8646e-03, A/V_lf = 5.0873e-04, C_hf = 6.2877e-03, A/V_hf = 5.0494e-02],
+  Test-error[C_lf = 1.2534e-02, C_hf = 2.4721e-02], A_hf = 1.7310e-02, V_hf = 1.0848e-02, time: 766.32s
+Epoch 155000:
+  Train-loss[total = 2.0840e-02, C_lf = 7.5332e-03, A/V_lf = 4.6962e-04, C_hf = 6.1145e-03, A/V_hf = 6.2565e-02],
+  Test-error[C_lf = 1.2587e-02, C_hf = 2.5532e-02], A_hf = 1.9373e-02, V_hf = 1.1836e-02, time: 771.28s
+Epoch 156000:
+  Train-loss[total = 2.0554e-02, C_lf = 7.6974e-03, A/V_lf = 4.2228e-05, C_hf = 5.2407e-03, A/V_hf = 4.1401e-02],
+  Test-error[C_lf = 1.2549e-02, C_hf = 2.5138e-02], A_hf = 1.5870e-02, V_hf = 9.3681e-03, time: 776.25s
+Epoch 157000:
+  Train-loss[total = 2.1036e-02, C_lf = 7.3962e-03, A/V_lf = 4.1690e-04, C_hf = 6.8273e-03, A/V_hf = 3.7531e-02],
+  Test-error[C_lf = 1.3067e-02, C_hf = 2.5259e-02], A_hf = 1.5444e-02, V_hf = 8.0682e-03, time: 781.29s
+Epoch 158000:
+  Train-loss[total = 2.2140e-02, C_lf = 7.9454e-03, A/V_lf = 1.6592e-03, C_hf = 7.9570e-03, A/V_hf = 5.2258e-02],
+  Test-error[C_lf = 1.2989e-02, C_hf = 2.5699e-02], A_hf = 1.6880e-02, V_hf = 1.2547e-02, time: 786.26s
+Epoch 159000:
+  Train-loss[total = 2.1935e-02, C_lf = 8.8517e-03, A/V_lf = 1.2118e-04, C_hf = 5.7905e-03, A/V_hf = 2.8538e-02],
+  Test-error[C_lf = 1.3819e-02, C_hf = 2.6318e-02], A_hf = 1.3731e-02, V_hf = 6.2715e-03, time: 791.17s
+Epoch 160000:
+  Train-loss[total = 2.0895e-02, C_lf = 7.1068e-03, A/V_lf = 2.5810e-04, C_hf = 7.2326e-03, A/V_hf = 3.1861e-02],
+  Test-error[C_lf = 1.2337e-02, C_hf = 2.5177e-02], A_hf = 1.4302e-02, V_hf = 7.2359e-03, time: 796.17s
+Epoch 161000:
+  Train-loss[total = 2.2623e-02, C_lf = 8.6523e-03, A/V_lf = 1.3365e-05, C_hf = 7.6310e-03, A/V_hf = 2.8612e-02],
+  Test-error[C_lf = 1.2463e-02, C_hf = 2.5357e-02], A_hf = 1.4192e-02, V_hf = 4.6841e-03, time: 801.17s
+Epoch 162000:
+  Train-loss[total = 2.0538e-02, C_lf = 7.5831e-03, A/V_lf = 6.2124e-04, C_hf = 5.6207e-03, A/V_hf = 3.8289e-02],
+  Test-error[C_lf = 1.2884e-02, C_hf = 2.4957e-02], A_hf = 1.5160e-02, V_hf = 9.2477e-03, time: 806.28s
+Epoch 163000:
+  Train-loss[total = 2.1212e-02, C_lf = 8.0029e-03, A/V_lf = 7.5745e-06, C_hf = 6.1794e-03, A/V_hf = 3.8405e-02],
+  Test-error[C_lf = 1.2294e-02, C_hf = 2.4496e-02], A_hf = 1.5567e-02, V_hf = 8.3126e-03, time: 811.25s
+Epoch 164000:
+  Train-loss[total = 2.0678e-02, C_lf = 7.3636e-03, A/V_lf = 9.6055e-05, C_hf = 6.4163e-03, A/V_hf = 3.5658e-02],
+  Test-error[C_lf = 1.2788e-02, C_hf = 2.5524e-02], A_hf = 1.5034e-02, V_hf = 7.9182e-03, time: 816.23s
+Epoch 165000:
+  Train-loss[total = 2.0648e-02, C_lf = 7.3416e-03, A/V_lf = 8.1128e-04, C_hf = 6.4134e-03, A/V_hf = 4.9207e-02],
+  Test-error[C_lf = 1.2613e-02, C_hf = 2.4469e-02], A_hf = 1.7019e-02, V_hf = 1.0863e-02, time: 821.16s
+Epoch 166000:
+  Train-loss[total = 2.2802e-02, C_lf = 9.0724e-03, A/V_lf = 5.1482e-06, C_hf = 7.3234e-03, A/V_hf = 4.2945e-02],
+  Test-error[C_lf = 1.2739e-02, C_hf = 2.5234e-02], A_hf = 1.6155e-02, V_hf = 9.5594e-03, time: 826.08s
+Epoch 167000:
+  Train-loss[total = 1.9100e-02, C_lf = 6.5309e-03, A/V_lf = 6.4905e-06, C_hf = 5.0231e-03, A/V_hf = 3.6019e-02],
+  Test-error[C_lf = 1.2458e-02, C_hf = 2.4950e-02], A_hf = 1.4892e-02, V_hf = 8.5192e-03, time: 831.05s
+Epoch 168000:
+  Train-loss[total = 2.1476e-02, C_lf = 8.3489e-03, A/V_lf = 4.0175e-05, C_hf = 6.1695e-03, A/V_hf = 4.0567e-02],
+  Test-error[C_lf = 1.2705e-02, C_hf = 2.5361e-02], A_hf = 1.5321e-02, V_hf = 1.0150e-02, time: 835.96s
+Epoch 169000:
+  Train-loss[total = 2.0816e-02, C_lf = 7.3557e-03, A/V_lf = 1.0980e-03, C_hf = 6.8505e-03, A/V_hf = 5.2895e-02],
+  Test-error[C_lf = 1.2416e-02, C_hf = 2.5007e-02], A_hf = 1.7100e-02, V_hf = 1.2396e-02, time: 841.02s
+Epoch 170000:
+  Train-loss[total = 2.2011e-02, C_lf = 8.2676e-03, A/V_lf = 5.4904e-05, C_hf = 7.4802e-03, A/V_hf = 2.6450e-02],
+  Test-error[C_lf = 1.3183e-02, C_hf = 2.5500e-02], A_hf = 1.3494e-02, V_hf = 5.1067e-03, time: 845.99s
+Epoch 171000:
+  Train-loss[total = 2.1498e-02, C_lf = 8.4982e-03, A/V_lf = 3.1640e-04, C_hf = 6.0137e-03, A/V_hf = 3.5979e-02],
+  Test-error[C_lf = 1.2269e-02, C_hf = 2.4906e-02], A_hf = 1.5351e-02, V_hf = 7.2476e-03, time: 851.00s
+Epoch 172000:
+  Train-loss[total = 2.0505e-02, C_lf = 7.7612e-03, A/V_lf = 2.9392e-05, C_hf = 5.5301e-03, A/V_hf = 3.2005e-02],
+  Test-error[C_lf = 1.2560e-02, C_hf = 2.5234e-02], A_hf = 1.4139e-02, V_hf = 7.7746e-03, time: 856.14s
+Epoch 173000:
+  Train-loss[total = 2.0421e-02, C_lf = 7.5774e-03, A/V_lf = 2.3487e-04, C_hf = 5.7517e-03, A/V_hf = 2.4237e-02],
+  Test-error[C_lf = 1.2957e-02, C_hf = 2.5149e-02], A_hf = 1.3150e-02, V_hf = 3.9100e-03, time: 861.16s
+Epoch 174000:
+  Train-loss[total = 2.1541e-02, C_lf = 8.5075e-03, A/V_lf = 2.4802e-04, C_hf = 6.1573e-03, A/V_hf = 4.2273e-02],
+  Test-error[C_lf = 1.2700e-02, C_hf = 2.5013e-02], A_hf = 1.6157e-02, V_hf = 9.1700e-03, time: 866.08s
+Epoch 175000:
+  Train-loss[total = 1.9798e-02, C_lf = 7.1721e-03, A/V_lf = 1.5190e-03, C_hf = 5.3472e-03, A/V_hf = 3.3702e-02],
+  Test-error[C_lf = 1.2465e-02, C_hf = 2.4719e-02], A_hf = 1.4205e-02, V_hf = 8.7185e-03, time: 871.01s
+Epoch 176000:
+  Train-loss[total = 2.0186e-02, C_lf = 7.7033e-03, A/V_lf = 3.7469e-03, C_hf = 5.0448e-03, A/V_hf = 3.4638e-02],
+  Test-error[C_lf = 1.2306e-02, C_hf = 2.5025e-02], A_hf = 1.4684e-02, V_hf = 8.1533e-03, time: 876.04s
+Epoch 177000:
+  Train-loss[total = 2.0474e-02, C_lf = 7.4125e-03, A/V_lf = 2.5438e-03, C_hf = 6.2577e-03, A/V_hf = 4.0794e-02],
+  Test-error[C_lf = 1.2433e-02, C_hf = 2.4637e-02], A_hf = 1.5200e-02, V_hf = 1.0521e-02, time: 880.96s
+Epoch 178000:
+  Train-loss[total = 2.2607e-02, C_lf = 8.9515e-03, A/V_lf = 1.7543e-05, C_hf = 7.5345e-03, A/V_hf = 2.4858e-02],
+  Test-error[C_lf = 1.2323e-02, C_hf = 2.4915e-02], A_hf = 1.3447e-02, V_hf = 3.2859e-03, time: 885.88s
+Epoch 179000:
+  Train-loss[total = 2.1912e-02, C_lf = 8.2497e-03, A/V_lf = 5.6232e-04, C_hf = 7.5639e-03, A/V_hf = 1.6215e-02],
+  Test-error[C_lf = 1.2650e-02, C_hf = 2.5043e-02], A_hf = 1.1087e-02, V_hf = 1.3455e-04, time: 890.81s
+Epoch 180000:
+  Train-loss[total = 2.2388e-02, C_lf = 8.6691e-03, A/V_lf = 1.7536e-03, C_hf = 7.6822e-03, A/V_hf = 2.7954e-02],
+  Test-error[C_lf = 1.2158e-02, C_hf = 2.5155e-02], A_hf = 1.3517e-02, V_hf = 6.4295e-03, time: 895.82s
+Epoch 181000:
+  Train-loss[total = 2.1688e-02, C_lf = 8.5053e-03, A/V_lf = 6.6315e-05, C_hf = 6.6719e-03, A/V_hf = 2.0109e-02],
+  Test-error[C_lf = 1.2864e-02, C_hf = 2.4968e-02], A_hf = 1.1714e-02, V_hf = 4.6408e-03, time: 900.81s
+Epoch 182000:
+  Train-loss[total = 2.1676e-02, C_lf = 8.0229e-03, A/V_lf = 1.8175e-06, C_hf = 7.6392e-03, A/V_hf = 1.7524e-02],
+  Test-error[C_lf = 1.3125e-02, C_hf = 2.4991e-02], A_hf = 1.1504e-02, V_hf = 8.4061e-04, time: 905.88s
+Epoch 183000:
+  Train-loss[total = 2.2234e-02, C_lf = 8.1776e-03, A/V_lf = 1.4460e-03, C_hf = 8.4464e-03, A/V_hf = 4.1053e-02],
+  Test-error[C_lf = 1.3123e-02, C_hf = 2.5580e-02], A_hf = 1.5602e-02, V_hf = 9.7953e-03, time: 910.46s
+Epoch 184000:
+  Train-loss[total = 2.0889e-02, C_lf = 8.4364e-03, A/V_lf = 3.2208e-05, C_hf = 5.2979e-03, A/V_hf = 3.0476e-02],
+  Test-error[C_lf = 1.2584e-02, C_hf = 2.5124e-02], A_hf = 1.3846e-02, V_hf = 7.4598e-03, time: 915.39s
+Epoch 185000:
+  Train-loss[total = 2.0718e-02, C_lf = 7.8158e-03, A/V_lf = 6.0553e-04, C_hf = 6.2088e-03, A/V_hf = 4.1227e-02],
+  Test-error[C_lf = 1.2404e-02, C_hf = 2.4678e-02], A_hf = 1.5785e-02, V_hf = 9.4700e-03, time: 920.24s
+Epoch 186000:
+  Train-loss[total = 2.2097e-02, C_lf = 8.5923e-03, A/V_lf = 6.4022e-05, C_hf = 7.4489e-03, A/V_hf = 1.6479e-02],
+  Test-error[C_lf = 1.3030e-02, C_hf = 2.5648e-02], A_hf = 1.0944e-02, V_hf = 2.6986e-03, time: 925.09s
+Epoch 187000:
+  Train-loss[total = 2.0528e-02, C_lf = 7.7533e-03, A/V_lf = 2.2059e-04, C_hf = 6.0181e-03, A/V_hf = 2.6131e-02],
+  Test-error[C_lf = 1.2980e-02, C_hf = 2.5529e-02], A_hf = 1.3248e-02, V_hf = 5.6528e-03, time: 929.90s
+Epoch 188000:
+  Train-loss[total = 2.0308e-02, C_lf = 7.7906e-03, A/V_lf = 5.5658e-06, C_hf = 5.5327e-03, A/V_hf = 2.3514e-02],
+  Test-error[C_lf = 1.2312e-02, C_hf = 2.4764e-02], A_hf = 1.2346e-02, V_hf = 6.0452e-03, time: 934.96s
+Epoch 189000:
+  Train-loss[total = 2.0017e-02, C_lf = 7.7290e-03, A/V_lf = 3.2295e-05, C_hf = 5.1025e-03, A/V_hf = 2.4344e-02],
+  Test-error[C_lf = 1.2818e-02, C_hf = 2.4877e-02], A_hf = 1.2750e-02, V_hf = 5.5779e-03, time: 939.78s
+Epoch 190000:
+  Train-loss[total = 2.0879e-02, C_lf = 8.2661e-03, A/V_lf = 7.4581e-06, C_hf = 5.7828e-03, A/V_hf = 3.6302e-02],
+  Test-error[C_lf = 1.3028e-02, C_hf = 2.5228e-02], A_hf = 1.4660e-02, V_hf = 9.2360e-03, time: 944.65s
+Epoch 191000:
+  Train-loss[total = 1.9370e-02, C_lf = 7.0854e-03, A/V_lf = 8.8524e-04, C_hf = 5.1325e-03, A/V_hf = 2.6231e-02],
+  Test-error[C_lf = 1.2512e-02, C_hf = 2.4250e-02], A_hf = 1.3014e-02, V_hf = 6.4601e-03, time: 949.59s
+Epoch 192000:
+  Train-loss[total = 1.9647e-02, C_lf = 6.9621e-03, A/V_lf = 1.1380e-04, C_hf = 5.9726e-03, A/V_hf = 2.3242e-02],
+  Test-error[C_lf = 1.2707e-02, C_hf = 2.5429e-02], A_hf = 1.2649e-02, V_hf = 4.7892e-03, time: 954.55s
+Epoch 193000:
+  Train-loss[total = 2.0306e-02, C_lf = 7.3438e-03, A/V_lf = 8.8048e-04, C_hf = 6.5478e-03, A/V_hf = 3.6881e-02],
+  Test-error[C_lf = 1.2382e-02, C_hf = 2.4503e-02], A_hf = 1.4777e-02, V_hf = 9.3090e-03, time: 959.45s
+Epoch 194000:
+  Train-loss[total = 2.0330e-02, C_lf = 7.7863e-03, A/V_lf = 2.7649e-04, C_hf = 5.7421e-03, A/V_hf = 2.4761e-02],
+  Test-error[C_lf = 1.2750e-02, C_hf = 2.4175e-02], A_hf = 1.2988e-02, V_hf = 5.1891e-03, time: 964.41s
+Epoch 195000:
+  Train-loss[total = 2.0879e-02, C_lf = 8.2665e-03, A/V_lf = 5.1497e-04, C_hf = 5.9005e-03, A/V_hf = 3.1073e-02],
+  Test-error[C_lf = 1.2541e-02, C_hf = 2.4810e-02], A_hf = 1.3322e-02, V_hf = 9.0669e-03, time: 969.41s
+Epoch 196000:
+  Train-loss[total = 2.1324e-02, C_lf = 8.3234e-03, A/V_lf = 2.2256e-04, C_hf = 6.7105e-03, A/V_hf = 3.4327e-02],
+  Test-error[C_lf = 1.2180e-02, C_hf = 2.4946e-02], A_hf = 1.5091e-02, V_hf = 6.7804e-03, time: 974.41s
+Epoch 197000:
+  Train-loss[total = 1.9679e-02, C_lf = 6.7892e-03, A/V_lf = 8.9162e-05, C_hf = 6.5212e-03, A/V_hf = 3.3624e-02],
+  Test-error[C_lf = 1.2469e-02, C_hf = 2.4429e-02], A_hf = 1.3523e-02, V_hf = 1.0096e-02, time: 979.29s
+Epoch 198000:
+  Train-loss[total = 2.1570e-02, C_lf = 8.6232e-03, A/V_lf = 2.0939e-04, C_hf = 6.6550e-03, A/V_hf = 2.9369e-02],
+  Test-error[C_lf = 1.2376e-02, C_hf = 2.5167e-02], A_hf = 1.3693e-02, V_hf = 7.0534e-03, time: 984.16s
+Epoch 199000:
+  Train-loss[total = 1.9973e-02, C_lf = 7.3253e-03, A/V_lf = 2.2553e-04, C_hf = 6.0793e-03, A/V_hf = 2.4569e-02],
+  Test-error[C_lf = 1.2502e-02, C_hf = 2.5243e-02], A_hf = 1.2725e-02, V_hf = 5.8674e-03, time: 989.18s
+Epoch 200000:
+  Train-loss[total = 2.2130e-02, C_lf = 8.7796e-03, A/V_lf = 1.0372e-04, C_hf = 7.5144e-03, A/V_hf = 1.9129e-02],
+  Test-error[C_lf = 1.2872e-02, C_hf = 2.5021e-02], A_hf = 1.1356e-02, V_hf = 4.7661e-03, time: 994.10s
+Epoch 201000:
+  Train-loss[total = 1.8960e-02, C_lf = 7.4392e-03, A/V_lf = 2.0311e-05, C_hf = 3.8574e-03, A/V_hf = 2.2420e-02],
+  Test-error[C_lf = 1.2177e-02, C_hf = 2.4562e-02], A_hf = 1.2252e-02, V_hf = 5.2998e-03, time: 999.02s
+Epoch 202000:
+  Train-loss[total = 1.9124e-02, C_lf = 7.6352e-03, A/V_lf = 1.9820e-05, C_hf = 3.7932e-03, A/V_hf = 2.2598e-02],
+  Test-error[C_lf = 1.2155e-02, C_hf = 2.4524e-02], A_hf = 1.2261e-02, V_hf = 5.4495e-03, time: 1002.96s
+Epoch 203000:
+  Train-loss[total = 1.8215e-02, C_lf = 6.7418e-03, A/V_lf = 5.0361e-05, C_hf = 3.7602e-03, A/V_hf = 2.2874e-02],
+  Test-error[C_lf = 1.2167e-02, C_hf = 2.4483e-02], A_hf = 1.2315e-02, V_hf = 5.5464e-03, time: 1006.97s
+Epoch 204000:
+  Train-loss[total = 1.7523e-02, C_lf = 6.0711e-03, A/V_lf = 3.2081e-05, C_hf = 3.7173e-03, A/V_hf = 2.2387e-02],
+  Test-error[C_lf = 1.2178e-02, C_hf = 2.4528e-02], A_hf = 1.2227e-02, V_hf = 5.3499e-03, time: 1010.94s
+Epoch 205000:
+  Train-loss[total = 1.8120e-02, C_lf = 6.6726e-03, A/V_lf = 5.7862e-05, C_hf = 3.7082e-03, A/V_hf = 2.2214e-02],
+  Test-error[C_lf = 1.2180e-02, C_hf = 2.4567e-02], A_hf = 1.2147e-02, V_hf = 5.4340e-03, time: 1014.86s
+Epoch 206000:
+  Train-loss[total = 1.8046e-02, C_lf = 6.6232e-03, A/V_lf = 2.9646e-05, C_hf = 3.6592e-03, A/V_hf = 2.1271e-02],
+  Test-error[C_lf = 1.2169e-02, C_hf = 2.4523e-02], A_hf = 1.1959e-02, V_hf = 5.0806e-03, time: 1018.72s
+Epoch 207000:
+  Train-loss[total = 1.8031e-02, C_lf = 6.5901e-03, A/V_lf = 5.4493e-05, C_hf = 3.6954e-03, A/V_hf = 2.2259e-02],
+  Test-error[C_lf = 1.2170e-02, C_hf = 2.4513e-02], A_hf = 1.2139e-02, V_hf = 5.5036e-03, time: 1022.64s
+Epoch 208000:
+  Train-loss[total = 1.7712e-02, C_lf = 6.2974e-03, A/V_lf = 3.5150e-05, C_hf = 3.6418e-03, A/V_hf = 2.2013e-02],
+  Test-error[C_lf = 1.2212e-02, C_hf = 2.4528e-02], A_hf = 1.2100e-02, V_hf = 5.3818e-03, time: 1026.57s
+Epoch 209000:
+  Train-loss[total = 1.7574e-02, C_lf = 6.1599e-03, A/V_lf = 1.1488e-04, C_hf = 3.6396e-03, A/V_hf = 2.2589e-02],
+  Test-error[C_lf = 1.2219e-02, C_hf = 2.4506e-02], A_hf = 1.2191e-02, V_hf = 5.6601e-03, time: 1030.60s
+Epoch 210000:
+  Train-loss[total = 1.7483e-02, C_lf = 6.0822e-03, A/V_lf = 8.2824e-05, C_hf = 3.6144e-03, A/V_hf = 2.2558e-02],
+  Test-error[C_lf = 1.2189e-02, C_hf = 2.4515e-02], A_hf = 1.2182e-02, V_hf = 5.6573e-03, time: 1034.64s
+Epoch 211000:
+  Train-loss[total = 1.8572e-02, C_lf = 7.1584e-03, A/V_lf = 7.0288e-05, C_hf = 3.6386e-03, A/V_hf = 2.1724e-02],
+  Test-error[C_lf = 1.2191e-02, C_hf = 2.4494e-02], A_hf = 1.1996e-02, V_hf = 5.4251e-03, time: 1038.67s
+Epoch 212000:
+  Train-loss[total = 1.8323e-02, C_lf = 6.9259e-03, A/V_lf = 7.4057e-05, C_hf = 3.6054e-03, A/V_hf = 2.1863e-02],
+  Test-error[C_lf = 1.2200e-02, C_hf = 2.4530e-02], A_hf = 1.1994e-02, V_hf = 5.5641e-03, time: 1042.68s
+Epoch 213000:
+  Train-loss[total = 1.8467e-02, C_lf = 7.0702e-03, A/V_lf = 4.9071e-05, C_hf = 3.6066e-03, A/V_hf = 2.1793e-02],
+  Test-error[C_lf = 1.2217e-02, C_hf = 2.4569e-02], A_hf = 1.1981e-02, V_hf = 5.5366e-03, time: 1046.71s
+Epoch 214000:
+  Train-loss[total = 1.8116e-02, C_lf = 6.7238e-03, A/V_lf = 6.2368e-05, C_hf = 3.5977e-03, A/V_hf = 2.1943e-02],
+  Test-error[C_lf = 1.2218e-02, C_hf = 2.4484e-02], A_hf = 1.2040e-02, V_hf = 5.5013e-03, time: 1050.69s
+Epoch 215000:
+  Train-loss[total = 1.8226e-02, C_lf = 6.8426e-03, A/V_lf = 9.4390e-05, C_hf = 3.5791e-03, A/V_hf = 2.1701e-02],
+  Test-error[C_lf = 1.2232e-02, C_hf = 2.4491e-02], A_hf = 1.1959e-02, V_hf = 5.5155e-03, time: 1054.63s
+Epoch 216000:
+  Train-loss[total = 1.6631e-02, C_lf = 5.2465e-03, A/V_lf = 1.1367e-04, C_hf = 3.5793e-03, A/V_hf = 2.1480e-02],
+  Test-error[C_lf = 1.2212e-02, C_hf = 2.4486e-02], A_hf = 1.1921e-02, V_hf = 5.4175e-03, time: 1058.56s
+Epoch 217000:
+  Train-loss[total = 1.8556e-02, C_lf = 7.1722e-03, A/V_lf = 3.8014e-05, C_hf = 3.5810e-03, A/V_hf = 2.1083e-02],
+  Test-error[C_lf = 1.2230e-02, C_hf = 2.4523e-02], A_hf = 1.1849e-02, V_hf = 5.2428e-03, time: 1062.48s
+Epoch 218000:
+  Train-loss[total = 1.9249e-02, C_lf = 7.8698e-03, A/V_lf = 4.6817e-05, C_hf = 3.5721e-03, A/V_hf = 2.1508e-02],
+  Test-error[C_lf = 1.2217e-02, C_hf = 2.4476e-02], A_hf = 1.1905e-02, V_hf = 5.4924e-03, time: 1066.42s
+Epoch 219000:
+  Train-loss[total = 1.7540e-02, C_lf = 6.1653e-03, A/V_lf = 4.5010e-06, C_hf = 3.5642e-03, A/V_hf = 2.1022e-02],
+  Test-error[C_lf = 1.2230e-02, C_hf = 2.4475e-02], A_hf = 1.1817e-02, V_hf = 5.2838e-03, time: 1070.29s
+Epoch 220000:
+  Train-loss[total = 1.7673e-02, C_lf = 6.2995e-03, A/V_lf = 8.1574e-05, C_hf = 3.5586e-03, A/V_hf = 2.1304e-02],
+  Test-error[C_lf = 1.2209e-02, C_hf = 2.4477e-02], A_hf = 1.1876e-02, V_hf = 5.3826e-03, time: 1074.16s
+Epoch 221000:
+  Train-loss[total = 1.8219e-02, C_lf = 6.8467e-03, A/V_lf = 3.6308e-05, C_hf = 3.5577e-03, A/V_hf = 2.1512e-02],
+  Test-error[C_lf = 1.2218e-02, C_hf = 2.4426e-02], A_hf = 1.1882e-02, V_hf = 5.5660e-03, time: 1078.05s
+Epoch 222000:
+  Train-loss[total = 1.7720e-02, C_lf = 6.3440e-03, A/V_lf = 5.0642e-05, C_hf = 3.5660e-03, A/V_hf = 2.0805e-02],
+  Test-error[C_lf = 1.2211e-02, C_hf = 2.4455e-02], A_hf = 1.1768e-02, V_hf = 5.2165e-03, time: 1082.15s
+Epoch 223000:
+  Train-loss[total = 1.7907e-02, C_lf = 6.5329e-03, A/V_lf = 1.6399e-05, C_hf = 3.5617e-03, A/V_hf = 2.0379e-02],
+  Test-error[C_lf = 1.2237e-02, C_hf = 2.4496e-02], A_hf = 1.1658e-02, V_hf = 5.1295e-03, time: 1086.14s
+Epoch 224000:
+  Train-loss[total = 1.9576e-02, C_lf = 8.2165e-03, A/V_lf = 5.0852e-05, C_hf = 3.5320e-03, A/V_hf = 2.0822e-02],
+  Test-error[C_lf = 1.2225e-02, C_hf = 2.4466e-02], A_hf = 1.1720e-02, V_hf = 5.3861e-03, time: 1090.09s
+Epoch 225000:
+  Train-loss[total = 1.8721e-02, C_lf = 7.3487e-03, A/V_lf = 5.6527e-05, C_hf = 3.5576e-03, A/V_hf = 2.0944e-02],
+  Test-error[C_lf = 1.2204e-02, C_hf = 2.4482e-02], A_hf = 1.1762e-02, V_hf = 5.3779e-03, time: 1094.10s
+Epoch 226000:
+  Train-loss[total = 1.7623e-02, C_lf = 6.2613e-03, A/V_lf = 2.9643e-05, C_hf = 3.5374e-03, A/V_hf = 2.0742e-02],
+  Test-error[C_lf = 1.2221e-02, C_hf = 2.4501e-02], A_hf = 1.1693e-02, V_hf = 5.3891e-03, time: 1098.14s
+Epoch 227000:
+  Train-loss[total = 1.7341e-02, C_lf = 5.9868e-03, A/V_lf = 8.8522e-05, C_hf = 3.5221e-03, A/V_hf = 2.1115e-02],
+  Test-error[C_lf = 1.2210e-02, C_hf = 2.4458e-02], A_hf = 1.1761e-02, V_hf = 5.5467e-03, time: 1102.12s
+Epoch 228000:
+  Train-loss[total = 1.7926e-02, C_lf = 6.5643e-03, A/V_lf = 2.5583e-05, C_hf = 3.5390e-03, A/V_hf = 2.0092e-02],
+  Test-error[C_lf = 1.2243e-02, C_hf = 2.4464e-02], A_hf = 1.1561e-02, V_hf = 5.1385e-03, time: 1106.10s
+Epoch 229000:
+  Train-loss[total = 1.8770e-02, C_lf = 7.4042e-03, A/V_lf = 3.4558e-05, C_hf = 3.5460e-03, A/V_hf = 2.0676e-02],
+  Test-error[C_lf = 1.2208e-02, C_hf = 2.4447e-02], A_hf = 1.1655e-02, V_hf = 5.4394e-03, time: 1110.15s
+Epoch 230000:
+  Train-loss[total = 1.8572e-02, C_lf = 7.2188e-03, A/V_lf = 4.1558e-05, C_hf = 3.5201e-03, A/V_hf = 1.9958e-02],
+  Test-error[C_lf = 1.2199e-02, C_hf = 2.4442e-02], A_hf = 1.1501e-02, V_hf = 5.1881e-03, time: 1114.25s
+Epoch 231000:
+  Train-loss[total = 1.7531e-02, C_lf = 6.1812e-03, A/V_lf = 4.6865e-05, C_hf = 3.5134e-03, A/V_hf = 2.0191e-02],
+  Test-error[C_lf = 1.2230e-02, C_hf = 2.4459e-02], A_hf = 1.1538e-02, V_hf = 5.3125e-03, time: 1118.30s
+Epoch 232000:
+  Train-loss[total = 1.8201e-02, C_lf = 6.8516e-03, A/V_lf = 1.2715e-05, C_hf = 3.5140e-03, A/V_hf = 1.9549e-02],
+  Test-error[C_lf = 1.2225e-02, C_hf = 2.4450e-02], A_hf = 1.1425e-02, V_hf = 5.0021e-03, time: 1122.28s
+Epoch 233000:
+  Train-loss[total = 1.8127e-02, C_lf = 6.7784e-03, A/V_lf = 5.0754e-05, C_hf = 3.5108e-03, A/V_hf = 1.9949e-02],
+  Test-error[C_lf = 1.2213e-02, C_hf = 2.4448e-02], A_hf = 1.1518e-02, V_hf = 5.1268e-03, time: 1126.20s
+Epoch 234000:
+  Train-loss[total = 1.7498e-02, C_lf = 6.1567e-03, A/V_lf = 5.4090e-05, C_hf = 3.4965e-03, A/V_hf = 2.0153e-02],
+  Test-error[C_lf = 1.2187e-02, C_hf = 2.4457e-02], A_hf = 1.1566e-02, V_hf = 5.1851e-03, time: 1130.16s
+Epoch 235000:
+  Train-loss[total = 1.7872e-02, C_lf = 6.5330e-03, A/V_lf = 4.2414e-05, C_hf = 3.4940e-03, A/V_hf = 1.9924e-02],
+  Test-error[C_lf = 1.2236e-02, C_hf = 2.4465e-02], A_hf = 1.1488e-02, V_hf = 5.1956e-03, time: 1134.24s
+Epoch 236000:
+  Train-loss[total = 1.8427e-02, C_lf = 7.0881e-03, A/V_lf = 2.4963e-05, C_hf = 3.4945e-03, A/V_hf = 2.0234e-02],
+  Test-error[C_lf = 1.2232e-02, C_hf = 2.4455e-02], A_hf = 1.1577e-02, V_hf = 5.2345e-03, time: 1138.28s
+Epoch 237000:
+  Train-loss[total = 1.7580e-02, C_lf = 6.2416e-03, A/V_lf = 2.9487e-05, C_hf = 3.4920e-03, A/V_hf = 2.0291e-02],
+  Test-error[C_lf = 1.2277e-02, C_hf = 2.4478e-02], A_hf = 1.1558e-02, V_hf = 5.3511e-03, time: 1142.33s
+Epoch 238000:
+  Train-loss[total = 1.7240e-02, C_lf = 5.8999e-03, A/V_lf = 4.1643e-05, C_hf = 3.4951e-03, A/V_hf = 1.9874e-02],
+  Test-error[C_lf = 1.2239e-02, C_hf = 2.4486e-02], A_hf = 1.1447e-02, V_hf = 5.2701e-03, time: 1146.36s
+Epoch 239000:
+  Train-loss[total = 1.8126e-02, C_lf = 6.7907e-03, A/V_lf = 3.9571e-05, C_hf = 3.4862e-03, A/V_hf = 2.0048e-02],
+  Test-error[C_lf = 1.2220e-02, C_hf = 2.4459e-02], A_hf = 1.1483e-02, V_hf = 5.3352e-03, time: 1150.34s
+Epoch 240000:
+  Train-loss[total = 1.7848e-02, C_lf = 6.5150e-03, A/V_lf = 1.0093e-04, C_hf = 3.4819e-03, A/V_hf = 2.0443e-02],
+  Test-error[C_lf = 1.2231e-02, C_hf = 2.4468e-02], A_hf = 1.1554e-02, V_hf = 5.5137e-03, time: 1154.39s
+Epoch 241000:
+  Train-loss[total = 1.8735e-02, C_lf = 7.3955e-03, A/V_lf = 7.2471e-05, C_hf = 3.4953e-03, A/V_hf = 2.0616e-02],
+  Test-error[C_lf = 1.2219e-02, C_hf = 2.4434e-02], A_hf = 1.1640e-02, V_hf = 5.4256e-03, time: 1158.41s
+Epoch 242000:
+  Train-loss[total = 1.6967e-02, C_lf = 5.6282e-03, A/V_lf = 6.0422e-05, C_hf = 3.4936e-03, A/V_hf = 2.0822e-02],
+  Test-error[C_lf = 1.2230e-02, C_hf = 2.4466e-02], A_hf = 1.1613e-02, V_hf = 5.7028e-03, time: 1162.33s
+Epoch 243000:
+  Train-loss[total = 1.9650e-02, C_lf = 8.3085e-03, A/V_lf = 2.5565e-05, C_hf = 3.4998e-03, A/V_hf = 2.0209e-02],
+  Test-error[C_lf = 1.2247e-02, C_hf = 2.4444e-02], A_hf = 1.1524e-02, V_hf = 5.3718e-03, time: 1166.30s
+Epoch 244000:
+  Train-loss[total = 1.7032e-02, C_lf = 5.7125e-03, A/V_lf = 4.3583e-05, C_hf = 3.4555e-03, A/V_hf = 2.0062e-02],
+  Test-error[C_lf = 1.2247e-02, C_hf = 2.4477e-02], A_hf = 1.1477e-02, V_hf = 5.3675e-03, time: 1170.30s
+Epoch 245000:
+  Train-loss[total = 1.8188e-02, C_lf = 6.8485e-03, A/V_lf = 5.2618e-05, C_hf = 3.4968e-03, A/V_hf = 2.0317e-02],
+  Test-error[C_lf = 1.2238e-02, C_hf = 2.4454e-02], A_hf = 1.1501e-02, V_hf = 5.5488e-03, time: 1174.29s
+Epoch 246000:
+  Train-loss[total = 1.7993e-02, C_lf = 6.6717e-03, A/V_lf = 5.5004e-05, C_hf = 3.4611e-03, A/V_hf = 2.0317e-02],
+  Test-error[C_lf = 1.2242e-02, C_hf = 2.4431e-02], A_hf = 1.1500e-02, V_hf = 5.5499e-03, time: 1178.41s
+Epoch 247000:
+  Train-loss[total = 1.8357e-02, C_lf = 7.0292e-03, A/V_lf = 4.6648e-05, C_hf = 3.4732e-03, A/V_hf = 2.0818e-02],
+  Test-error[C_lf = 1.2247e-02, C_hf = 2.4446e-02], A_hf = 1.1628e-02, V_hf = 5.6575e-03, time: 1182.45s
+Epoch 248000:
+  Train-loss[total = 1.8499e-02, C_lf = 7.1767e-03, A/V_lf = 6.0947e-05, C_hf = 3.4624e-03, A/V_hf = 2.0500e-02],
+  Test-error[C_lf = 1.2215e-02, C_hf = 2.4410e-02], A_hf = 1.1559e-02, V_hf = 5.5545e-03, time: 1186.42s
+Epoch 249000:
+  Train-loss[total = 1.8200e-02, C_lf = 6.8743e-03, A/V_lf = 5.5433e-05, C_hf = 3.4706e-03, A/V_hf = 2.0448e-02],
+  Test-error[C_lf = 1.2253e-02, C_hf = 2.4459e-02], A_hf = 1.1548e-02, V_hf = 5.5375e-03, time: 1190.41s
+Epoch 250000:
+  Train-loss[total = 1.8499e-02, C_lf = 7.1568e-03, A/V_lf = 7.5190e-05, C_hf = 3.5032e-03, A/V_hf = 1.9949e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4466e-02], A_hf = 1.1424e-02, V_hf = 5.4154e-03, time: 1194.38s
+Epoch 251000:
+  Train-loss[total = 1.8453e-02, C_lf = 7.1320e-03, A/V_lf = 6.4006e-05, C_hf = 3.4597e-03, A/V_hf = 1.9670e-02],
+  Test-error[C_lf = 1.2250e-02, C_hf = 2.4415e-02], A_hf = 1.1370e-02, V_hf = 5.2988e-03, time: 1198.31s
+Epoch 252000:
+  Train-loss[total = 1.9579e-02, C_lf = 8.2601e-03, A/V_lf = 1.4942e-04, C_hf = 3.4540e-03, A/V_hf = 2.1264e-02],
+  Test-error[C_lf = 1.2238e-02, C_hf = 2.4448e-02], A_hf = 1.1717e-02, V_hf = 5.8180e-03, time: 1202.30s
+Epoch 253000:
+  Train-loss[total = 1.7671e-02, C_lf = 6.3388e-03, A/V_lf = 4.4020e-05, C_hf = 3.4847e-03, A/V_hf = 2.0038e-02],
+  Test-error[C_lf = 1.2250e-02, C_hf = 2.4423e-02], A_hf = 1.1438e-02, V_hf = 5.4629e-03, time: 1206.29s
+Epoch 254000:
+  Train-loss[total = 1.8459e-02, C_lf = 7.1315e-03, A/V_lf = 5.6561e-05, C_hf = 3.4756e-03, A/V_hf = 2.0196e-02],
+  Test-error[C_lf = 1.2270e-02, C_hf = 2.4475e-02], A_hf = 1.1470e-02, V_hf = 5.5220e-03, time: 1210.26s
+Epoch 255000:
+  Train-loss[total = 1.8484e-02, C_lf = 7.1753e-03, A/V_lf = 1.1385e-04, C_hf = 3.4365e-03, A/V_hf = 2.0597e-02],
+  Test-error[C_lf = 1.2254e-02, C_hf = 2.4423e-02], A_hf = 1.1548e-02, V_hf = 5.6793e-03, time: 1214.41s
+Epoch 256000:
+  Train-loss[total = 1.7268e-02, C_lf = 5.9552e-03, A/V_lf = 7.7789e-05, C_hf = 3.4455e-03, A/V_hf = 2.0294e-02],
+  Test-error[C_lf = 1.2237e-02, C_hf = 2.4427e-02], A_hf = 1.1498e-02, V_hf = 5.5354e-03, time: 1218.54s
+Epoch 257000:
+  Train-loss[total = 1.8066e-02, C_lf = 6.7456e-03, A/V_lf = 1.5574e-05, C_hf = 3.4618e-03, A/V_hf = 1.9018e-02],
+  Test-error[C_lf = 1.2237e-02, C_hf = 2.4439e-02], A_hf = 1.1239e-02, V_hf = 5.0285e-03, time: 1222.56s
+Epoch 258000:
+  Train-loss[total = 1.7426e-02, C_lf = 6.1142e-03, A/V_lf = 6.1657e-05, C_hf = 3.4453e-03, A/V_hf = 2.0074e-02],
+  Test-error[C_lf = 1.2262e-02, C_hf = 2.4460e-02], A_hf = 1.1441e-02, V_hf = 5.4888e-03, time: 1226.54s
+Epoch 259000:
+  Train-loss[total = 1.7875e-02, C_lf = 6.5636e-03, A/V_lf = 3.8559e-05, C_hf = 3.4442e-03, A/V_hf = 2.0022e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4415e-02], A_hf = 1.1444e-02, V_hf = 5.4284e-03, time: 1230.51s
+Epoch 260000:
+  Train-loss[total = 1.7794e-02, C_lf = 6.4837e-03, A/V_lf = 5.8456e-05, C_hf = 3.4430e-03, A/V_hf = 1.9665e-02],
+  Test-error[C_lf = 1.2236e-02, C_hf = 2.4420e-02], A_hf = 1.1361e-02, V_hf = 5.3220e-03, time: 1234.51s
+Epoch 261000:
+  Train-loss[total = 1.7947e-02, C_lf = 6.6364e-03, A/V_lf = 2.6919e-05, C_hf = 3.4431e-03, A/V_hf = 1.9861e-02],
+  Test-error[C_lf = 1.2219e-02, C_hf = 2.4405e-02], A_hf = 1.1411e-02, V_hf = 5.3671e-03, time: 1238.48s
+Epoch 262000:
+  Train-loss[total = 1.8390e-02, C_lf = 7.0805e-03, A/V_lf = 1.1068e-04, C_hf = 3.4407e-03, A/V_hf = 2.0458e-02],
+  Test-error[C_lf = 1.2232e-02, C_hf = 2.4448e-02], A_hf = 1.1525e-02, V_hf = 5.6133e-03, time: 1242.49s
+Epoch 263000:
+  Train-loss[total = 1.7883e-02, C_lf = 6.5695e-03, A/V_lf = 7.7484e-05, C_hf = 3.4500e-03, A/V_hf = 2.0158e-02],
+  Test-error[C_lf = 1.2223e-02, C_hf = 2.4421e-02], A_hf = 1.1442e-02, V_hf = 5.5671e-03, time: 1246.50s
+Epoch 264000:
+  Train-loss[total = 1.7628e-02, C_lf = 6.3265e-03, A/V_lf = 3.1923e-05, C_hf = 3.4262e-03, A/V_hf = 1.9552e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4485e-02], A_hf = 1.1318e-02, V_hf = 5.3358e-03, time: 1250.49s
+Epoch 265000:
+  Train-loss[total = 1.8232e-02, C_lf = 6.9080e-03, A/V_lf = 7.1092e-05, C_hf = 3.4717e-03, A/V_hf = 1.9878e-02],
+  Test-error[C_lf = 1.2248e-02, C_hf = 2.4445e-02], A_hf = 1.1405e-02, V_hf = 5.4036e-03, time: 1254.51s
+Epoch 266000:
+  Train-loss[total = 1.8563e-02, C_lf = 7.2589e-03, A/V_lf = 5.6989e-05, C_hf = 3.4325e-03, A/V_hf = 2.0038e-02],
+  Test-error[C_lf = 1.2234e-02, C_hf = 2.4417e-02], A_hf = 1.1431e-02, V_hf = 5.4825e-03, time: 1258.42s
+Epoch 267000:
+  Train-loss[total = 1.7594e-02, C_lf = 6.2861e-03, A/V_lf = 5.4128e-05, C_hf = 3.4410e-03, A/V_hf = 2.0366e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4445e-02], A_hf = 1.1500e-02, V_hf = 5.5977e-03, time: 1262.30s
+Epoch 268000:
+  Train-loss[total = 1.7990e-02, C_lf = 6.6777e-03, A/V_lf = 3.5350e-05, C_hf = 3.4487e-03, A/V_hf = 1.9097e-02],
+  Test-error[C_lf = 1.2275e-02, C_hf = 2.4392e-02], A_hf = 1.1212e-02, V_hf = 5.1928e-03, time: 1266.33s
+Epoch 269000:
+  Train-loss[total = 1.8594e-02, C_lf = 7.2884e-03, A/V_lf = 7.9068e-05, C_hf = 3.4362e-03, A/V_hf = 2.0030e-02],
+  Test-error[C_lf = 1.2240e-02, C_hf = 2.4455e-02], A_hf = 1.1432e-02, V_hf = 5.4725e-03, time: 1270.38s
+Epoch 270000:
+  Train-loss[total = 1.7873e-02, C_lf = 6.5719e-03, A/V_lf = 5.3148e-05, C_hf = 3.4269e-03, A/V_hf = 1.9611e-02],
+  Test-error[C_lf = 1.2249e-02, C_hf = 2.4458e-02], A_hf = 1.1339e-02, V_hf = 5.3345e-03, time: 1274.44s
+Epoch 271000:
+  Train-loss[total = 1.7913e-02, C_lf = 6.6118e-03, A/V_lf = 2.3112e-05, C_hf = 3.4283e-03, A/V_hf = 1.9017e-02],
+  Test-error[C_lf = 1.2263e-02, C_hf = 2.4425e-02], A_hf = 1.1199e-02, V_hf = 5.1530e-03, time: 1278.38s
+Epoch 272000:
+  Train-loss[total = 1.8351e-02, C_lf = 7.0518e-03, A/V_lf = 1.6645e-05, C_hf = 3.4253e-03, A/V_hf = 1.8626e-02],
+  Test-error[C_lf = 1.2265e-02, C_hf = 2.4425e-02], A_hf = 1.1123e-02, V_hf = 4.9737e-03, time: 1282.32s
+Epoch 273000:
+  Train-loss[total = 1.8143e-02, C_lf = 6.8451e-03, A/V_lf = 5.4956e-05, C_hf = 3.4228e-03, A/V_hf = 1.9698e-02],
+  Test-error[C_lf = 1.2246e-02, C_hf = 2.4396e-02], A_hf = 1.1319e-02, V_hf = 5.4797e-03, time: 1286.39s
+Epoch 274000:
+  Train-loss[total = 1.7658e-02, C_lf = 6.3462e-03, A/V_lf = 3.1864e-05, C_hf = 3.4513e-03, A/V_hf = 1.9535e-02],
+  Test-error[C_lf = 1.2262e-02, C_hf = 2.4487e-02], A_hf = 1.1322e-02, V_hf = 5.3066e-03, time: 1290.32s
+Epoch 275000:
+  Train-loss[total = 1.6675e-02, C_lf = 5.3818e-03, A/V_lf = 4.4420e-05, C_hf = 3.4144e-03, A/V_hf = 1.9928e-02],
+  Test-error[C_lf = 1.2247e-02, C_hf = 2.4414e-02], A_hf = 1.1395e-02, V_hf = 5.4818e-03, time: 1294.29s
+Epoch 276000:
+  Train-loss[total = 1.8314e-02, C_lf = 7.0073e-03, A/V_lf = 4.3846e-05, C_hf = 3.4402e-03, A/V_hf = 1.9756e-02],
+  Test-error[C_lf = 1.2279e-02, C_hf = 2.4411e-02], A_hf = 1.1360e-02, V_hf = 5.4139e-03, time: 1298.36s
+Epoch 277000:
+  Train-loss[total = 1.8247e-02, C_lf = 6.9439e-03, A/V_lf = 1.1942e-05, C_hf = 3.4343e-03, A/V_hf = 1.9079e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4421e-02], A_hf = 1.1214e-02, V_hf = 5.1692e-03, time: 1302.41s
+Epoch 278000:
+  Train-loss[total = 1.7969e-02, C_lf = 6.6687e-03, A/V_lf = 5.1778e-05, C_hf = 3.4286e-03, A/V_hf = 1.9700e-02],
+  Test-error[C_lf = 1.2258e-02, C_hf = 2.4414e-02], A_hf = 1.1342e-02, V_hf = 5.4114e-03, time: 1306.45s
+Epoch 279000:
+  Train-loss[total = 1.6972e-02, C_lf = 5.6812e-03, A/V_lf = 4.2963e-05, C_hf = 3.4100e-03, A/V_hf = 1.9254e-02],
+  Test-error[C_lf = 1.2250e-02, C_hf = 2.4456e-02], A_hf = 1.1256e-02, V_hf = 5.2219e-03, time: 1310.38s
+Epoch 280000:
+  Train-loss[total = 1.7404e-02, C_lf = 6.1063e-03, A/V_lf = 3.5906e-05, C_hf = 3.4252e-03, A/V_hf = 1.8960e-02],
+  Test-error[C_lf = 1.2240e-02, C_hf = 2.4398e-02], A_hf = 1.1183e-02, V_hf = 5.1424e-03, time: 1314.26s
+Epoch 281000:
+  Train-loss[total = 1.7986e-02, C_lf = 6.6980e-03, A/V_lf = 3.8678e-05, C_hf = 3.4046e-03, A/V_hf = 1.8990e-02],
+  Test-error[C_lf = 1.2247e-02, C_hf = 2.4415e-02], A_hf = 1.1174e-02, V_hf = 5.1988e-03, time: 1318.01s
+Epoch 282000:
+  Train-loss[total = 1.7267e-02, C_lf = 5.9765e-03, A/V_lf = 3.1907e-05, C_hf = 3.4111e-03, A/V_hf = 1.9584e-02],
+  Test-error[C_lf = 1.2228e-02, C_hf = 2.4386e-02], A_hf = 1.1299e-02, V_hf = 5.4258e-03, time: 1321.85s
+Epoch 283000:
+  Train-loss[total = 1.8559e-02, C_lf = 7.2738e-03, A/V_lf = 8.6341e-05, C_hf = 3.3990e-03, A/V_hf = 1.9784e-02],
+  Test-error[C_lf = 1.2238e-02, C_hf = 2.4428e-02], A_hf = 1.1331e-02, V_hf = 5.5283e-03, time: 1325.76s
+Epoch 284000:
+  Train-loss[total = 1.8297e-02, C_lf = 7.0081e-03, A/V_lf = 7.2568e-05, C_hf = 3.4075e-03, A/V_hf = 1.9928e-02],
+  Test-error[C_lf = 1.2243e-02, C_hf = 2.4398e-02], A_hf = 1.1358e-02, V_hf = 5.5875e-03, time: 1329.75s
+Epoch 285000:
+  Train-loss[total = 1.8576e-02, C_lf = 7.2865e-03, A/V_lf = 4.6919e-05, C_hf = 3.4094e-03, A/V_hf = 1.9101e-02],
+  Test-error[C_lf = 1.2268e-02, C_hf = 2.4437e-02], A_hf = 1.1184e-02, V_hf = 5.2821e-03, time: 1333.71s
+Epoch 286000:
+  Train-loss[total = 1.8477e-02, C_lf = 7.1944e-03, A/V_lf = 7.3385e-05, C_hf = 3.3949e-03, A/V_hf = 1.9475e-02],
+  Test-error[C_lf = 1.2250e-02, C_hf = 2.4435e-02], A_hf = 1.1281e-02, V_hf = 5.3702e-03, time: 1337.78s
+Epoch 287000:
+  Train-loss[total = 1.8817e-02, C_lf = 7.5379e-03, A/V_lf = 7.5021e-05, C_hf = 3.3894e-03, A/V_hf = 1.9526e-02],
+  Test-error[C_lf = 1.2280e-02, C_hf = 2.4455e-02], A_hf = 1.1252e-02, V_hf = 5.5038e-03, time: 1341.86s
+Epoch 288000:
+  Train-loss[total = 1.7372e-02, C_lf = 6.0884e-03, A/V_lf = 5.3035e-05, C_hf = 3.3985e-03, A/V_hf = 1.9594e-02],
+  Test-error[C_lf = 1.2215e-02, C_hf = 2.4362e-02], A_hf = 1.1311e-02, V_hf = 5.3982e-03, time: 1345.73s
+Epoch 289000:
+  Train-loss[total = 1.8802e-02, C_lf = 7.5197e-03, A/V_lf = 5.5425e-05, C_hf = 3.3967e-03, A/V_hf = 1.9512e-02],
+  Test-error[C_lf = 1.2250e-02, C_hf = 2.4402e-02], A_hf = 1.1244e-02, V_hf = 5.5146e-03, time: 1349.74s
+Epoch 290000:
+  Train-loss[total = 1.7253e-02, C_lf = 5.9744e-03, A/V_lf = 9.3609e-05, C_hf = 3.3885e-03, A/V_hf = 1.9405e-02],
+  Test-error[C_lf = 1.2245e-02, C_hf = 2.4372e-02], A_hf = 1.1218e-02, V_hf = 5.4854e-03, time: 1353.68s
+Epoch 291000:
+  Train-loss[total = 1.7348e-02, C_lf = 6.0724e-03, A/V_lf = 9.4216e-05, C_hf = 3.3824e-03, A/V_hf = 1.9721e-02],
+  Test-error[C_lf = 1.2243e-02, C_hf = 2.4370e-02], A_hf = 1.1299e-02, V_hf = 5.5588e-03, time: 1357.75s
+Epoch 292000:
+  Train-loss[total = 1.8302e-02, C_lf = 7.0251e-03, A/V_lf = 8.0550e-05, C_hf = 3.3867e-03, A/V_hf = 1.9972e-02],
+  Test-error[C_lf = 1.2267e-02, C_hf = 2.4405e-02], A_hf = 1.1341e-02, V_hf = 5.6774e-03, time: 1361.79s
+Epoch 293000:
+  Train-loss[total = 1.7819e-02, C_lf = 6.5447e-03, A/V_lf = 9.5098e-05, C_hf = 3.3817e-03, A/V_hf = 2.0443e-02],
+  Test-error[C_lf = 1.2233e-02, C_hf = 2.4373e-02], A_hf = 1.1426e-02, V_hf = 5.8792e-03, time: 1365.72s
+Epoch 294000:
+  Train-loss[total = 1.7764e-02, C_lf = 6.4912e-03, A/V_lf = 1.1486e-04, C_hf = 3.3778e-03, A/V_hf = 1.9989e-02],
+  Test-error[C_lf = 1.2230e-02, C_hf = 2.4402e-02], A_hf = 1.1352e-02, V_hf = 5.6644e-03, time: 1369.65s
+Epoch 295000:
+  Train-loss[total = 1.8662e-02, C_lf = 7.3812e-03, A/V_lf = 1.2873e-04, C_hf = 3.3942e-03, A/V_hf = 2.0044e-02],
+  Test-error[C_lf = 1.2240e-02, C_hf = 2.4412e-02], A_hf = 1.1351e-02, V_hf = 5.7191e-03, time: 1373.55s
+Epoch 296000:
+  Train-loss[total = 1.8237e-02, C_lf = 6.9553e-03, A/V_lf = 1.2976e-04, C_hf = 3.3966e-03, A/V_hf = 1.9954e-02],
+  Test-error[C_lf = 1.2227e-02, C_hf = 2.4411e-02], A_hf = 1.1345e-02, V_hf = 5.6512e-03, time: 1377.40s
+Epoch 297000:
+  Train-loss[total = 1.8005e-02, C_lf = 6.7330e-03, A/V_lf = 7.4501e-05, C_hf = 3.3791e-03, A/V_hf = 1.9394e-02],
+  Test-error[C_lf = 1.2236e-02, C_hf = 2.4416e-02], A_hf = 1.1226e-02, V_hf = 5.4524e-03, time: 1381.41s
+Epoch 298000:
+  Train-loss[total = 1.8317e-02, C_lf = 7.0356e-03, A/V_lf = 4.8035e-05, C_hf = 3.3987e-03, A/V_hf = 1.9099e-02],
+  Test-error[C_lf = 1.2272e-02, C_hf = 2.4419e-02], A_hf = 1.1162e-02, V_hf = 5.3461e-03, time: 1385.37s
+Epoch 299000:
+  Train-loss[total = 1.8262e-02, C_lf = 6.9830e-03, A/V_lf = 3.6416e-05, C_hf = 3.3929e-03, A/V_hf = 1.8628e-02],
+  Test-error[C_lf = 1.2278e-02, C_hf = 2.4389e-02], A_hf = 1.1066e-02, V_hf = 5.1537e-03, time: 1389.31s
+Epoch 300000:
+  Train-loss[total = 1.7261e-02, C_lf = 5.9740e-03, A/V_lf = 1.9118e-05, C_hf = 3.4107e-03, A/V_hf = 1.8516e-02],
+  Test-error[C_lf = 1.2245e-02, C_hf = 2.4414e-02], A_hf = 1.1023e-02, V_hf = 5.1666e-03, time: 1393.22s
+Epoch 301000:
+  Train-loss[total = 1.7324e-02, C_lf = 6.0545e-03, A/V_lf = 7.2066e-05, C_hf = 3.3743e-03, A/V_hf = 1.9192e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4388e-02], A_hf = 1.1167e-02, V_hf = 5.4242e-03, time: 1397.20s
+Epoch 302000:
+  Train-loss[total = 1.7339e-02, C_lf = 6.0722e-03, A/V_lf = 4.2400e-05, C_hf = 3.3716e-03, A/V_hf = 1.9084e-02],
+  Test-error[C_lf = 1.2281e-02, C_hf = 2.4426e-02], A_hf = 1.1145e-02, V_hf = 5.3828e-03, time: 1401.12s
+Epoch 303000:
+  Train-loss[total = 1.7324e-02, C_lf = 6.0531e-03, A/V_lf = 3.5947e-05, C_hf = 3.3796e-03, A/V_hf = 1.8768e-02],
+  Test-error[C_lf = 1.2260e-02, C_hf = 2.4424e-02], A_hf = 1.1049e-02, V_hf = 5.3471e-03, time: 1405.01s
+Epoch 304000:
+  Train-loss[total = 1.7741e-02, C_lf = 6.4744e-03, A/V_lf = 4.7143e-05, C_hf = 3.3708e-03, A/V_hf = 1.8711e-02],
+  Test-error[C_lf = 1.2255e-02, C_hf = 2.4381e-02], A_hf = 1.1047e-02, V_hf = 5.2950e-03, time: 1408.97s
+Epoch 305000:
+  Train-loss[total = 1.8383e-02, C_lf = 7.1080e-03, A/V_lf = 5.1159e-05, C_hf = 3.3886e-03, A/V_hf = 1.8765e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4366e-02], A_hf = 1.1076e-02, V_hf = 5.2619e-03, time: 1413.03s
+Epoch 306000:
+  Train-loss[total = 1.7428e-02, C_lf = 6.1447e-03, A/V_lf = 4.1778e-05, C_hf = 3.4051e-03, A/V_hf = 1.8228e-02],
+  Test-error[C_lf = 1.2301e-02, C_hf = 2.4443e-02], A_hf = 1.0934e-02, V_hf = 5.1369e-03, time: 1417.01s
+Epoch 307000:
+  Train-loss[total = 1.8046e-02, C_lf = 6.7759e-03, A/V_lf = 4.8141e-05, C_hf = 3.3800e-03, A/V_hf = 1.8630e-02],
+  Test-error[C_lf = 1.2255e-02, C_hf = 2.4406e-02], A_hf = 1.1016e-02, V_hf = 5.3038e-03, time: 1420.95s
+Epoch 308000:
+  Train-loss[total = 1.8448e-02, C_lf = 7.1803e-03, A/V_lf = 5.0209e-05, C_hf = 3.3738e-03, A/V_hf = 1.8349e-02],
+  Test-error[C_lf = 1.2270e-02, C_hf = 2.4375e-02], A_hf = 1.0971e-02, V_hf = 5.1493e-03, time: 1424.97s
+Epoch 309000:
+  Train-loss[total = 1.7749e-02, C_lf = 6.4735e-03, A/V_lf = 1.2640e-05, C_hf = 3.3914e-03, A/V_hf = 1.8140e-02],
+  Test-error[C_lf = 1.2254e-02, C_hf = 2.4379e-02], A_hf = 1.0942e-02, V_hf = 5.0186e-03, time: 1428.98s
+Epoch 310000:
+  Train-loss[total = 1.8179e-02, C_lf = 6.9091e-03, A/V_lf = 3.3113e-05, C_hf = 3.3807e-03, A/V_hf = 1.8560e-02],
+  Test-error[C_lf = 1.2268e-02, C_hf = 2.4425e-02], A_hf = 1.1010e-02, V_hf = 5.2521e-03, time: 1432.96s
+Epoch 311000:
+  Train-loss[total = 1.7795e-02, C_lf = 6.5116e-03, A/V_lf = 3.6946e-05, C_hf = 3.4074e-03, A/V_hf = 1.8491e-02],
+  Test-error[C_lf = 1.2303e-02, C_hf = 2.4415e-02], A_hf = 1.0976e-02, V_hf = 5.2804e-03, time: 1436.90s
+Epoch 312000:
+  Train-loss[total = 1.7937e-02, C_lf = 6.6661e-03, A/V_lf = 9.1311e-05, C_hf = 3.3808e-03, A/V_hf = 1.9192e-02],
+  Test-error[C_lf = 1.2270e-02, C_hf = 2.4385e-02], A_hf = 1.1148e-02, V_hf = 5.4788e-03, time: 1440.84s
+Epoch 313000:
+  Train-loss[total = 1.7297e-02, C_lf = 6.0343e-03, A/V_lf = 3.7476e-05, C_hf = 3.3676e-03, A/V_hf = 1.8582e-02],
+  Test-error[C_lf = 1.2249e-02, C_hf = 2.4369e-02], A_hf = 1.1001e-02, V_hf = 5.2995e-03, time: 1444.75s
+Epoch 314000:
+  Train-loss[total = 1.7309e-02, C_lf = 6.0443e-03, A/V_lf = 4.9614e-05, C_hf = 3.3710e-03, A/V_hf = 1.8336e-02],
+  Test-error[C_lf = 1.2287e-02, C_hf = 2.4379e-02], A_hf = 1.0942e-02, V_hf = 5.2241e-03, time: 1448.68s
+Epoch 315000:
+  Train-loss[total = 1.8151e-02, C_lf = 6.8797e-03, A/V_lf = 9.1772e-06, C_hf = 3.3853e-03, A/V_hf = 1.8149e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4383e-02], A_hf = 1.0921e-02, V_hf = 5.0911e-03, time: 1452.68s
+Epoch 316000:
+  Train-loss[total = 1.7403e-02, C_lf = 6.1372e-03, A/V_lf = 4.6362e-05, C_hf = 3.3740e-03, A/V_hf = 1.8978e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4409e-02], A_hf = 1.1071e-02, V_hf = 5.4896e-03, time: 1456.65s
+Epoch 317000:
+  Train-loss[total = 1.8688e-02, C_lf = 7.4268e-03, A/V_lf = 1.7567e-05, C_hf = 3.3662e-03, A/V_hf = 1.8444e-02],
+  Test-error[C_lf = 1.2243e-02, C_hf = 2.4359e-02], A_hf = 1.0952e-02, V_hf = 5.3039e-03, time: 1460.67s
+Epoch 318000:
+  Train-loss[total = 1.7551e-02, C_lf = 6.2773e-03, A/V_lf = 4.9095e-05, C_hf = 3.3898e-03, A/V_hf = 1.9222e-02],
+  Test-error[C_lf = 1.2253e-02, C_hf = 2.4355e-02], A_hf = 1.1158e-02, V_hf = 5.4803e-03, time: 1464.60s
+Epoch 319000:
+  Train-loss[total = 1.7437e-02, C_lf = 6.1616e-03, A/V_lf = 3.4069e-05, C_hf = 3.3955e-03, A/V_hf = 1.9112e-02],
+  Test-error[C_lf = 1.2232e-02, C_hf = 2.4407e-02], A_hf = 1.1131e-02, V_hf = 5.4497e-03, time: 1468.51s
+Epoch 320000:
+  Train-loss[total = 1.8130e-02, C_lf = 6.8741e-03, A/V_lf = 5.3125e-05, C_hf = 3.3562e-03, A/V_hf = 1.9169e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4387e-02], A_hf = 1.1101e-02, V_hf = 5.5915e-03, time: 1472.30s
+Epoch 321000:
+  Train-loss[total = 1.7729e-02, C_lf = 6.4745e-03, A/V_lf = 6.4260e-05, C_hf = 3.3527e-03, A/V_hf = 1.9149e-02],
+  Test-error[C_lf = 1.2264e-02, C_hf = 2.4390e-02], A_hf = 1.1127e-02, V_hf = 5.4975e-03, time: 1476.25s
+Epoch 322000:
+  Train-loss[total = 1.7028e-02, C_lf = 5.7714e-03, A/V_lf = 3.9352e-05, C_hf = 3.3570e-03, A/V_hf = 1.8651e-02],
+  Test-error[C_lf = 1.2285e-02, C_hf = 2.4377e-02], A_hf = 1.1008e-02, V_hf = 5.3490e-03, time: 1480.24s
+Epoch 323000:
+  Train-loss[total = 1.8097e-02, C_lf = 6.8453e-03, A/V_lf = 4.1606e-05, C_hf = 3.3492e-03, A/V_hf = 1.8414e-02],
+  Test-error[C_lf = 1.2225e-02, C_hf = 2.4370e-02], A_hf = 1.0931e-02, V_hf = 5.3354e-03, time: 1484.30s
+Epoch 324000:
+  Train-loss[total = 1.8654e-02, C_lf = 7.3959e-03, A/V_lf = 3.6490e-05, C_hf = 3.3620e-03, A/V_hf = 1.8250e-02],
+  Test-error[C_lf = 1.2274e-02, C_hf = 2.4375e-02], A_hf = 1.0934e-02, V_hf = 5.1596e-03, time: 1488.34s
+Epoch 325000:
+  Train-loss[total = 1.7256e-02, C_lf = 5.9664e-03, A/V_lf = 4.2009e-05, C_hf = 3.4247e-03, A/V_hf = 1.8568e-02],
+  Test-error[C_lf = 1.2235e-02, C_hf = 2.4364e-02], A_hf = 1.0962e-02, V_hf = 5.3996e-03, time: 1492.31s
+Epoch 326000:
+  Train-loss[total = 1.7594e-02, C_lf = 6.3325e-03, A/V_lf = 3.7535e-05, C_hf = 3.3690e-03, A/V_hf = 1.8527e-02],
+  Test-error[C_lf = 1.2247e-02, C_hf = 2.4394e-02], A_hf = 1.0966e-02, V_hf = 5.3457e-03, time: 1496.25s
+Epoch 327000:
+  Train-loss[total = 1.8970e-02, C_lf = 7.7187e-03, A/V_lf = 3.4919e-05, C_hf = 3.3496e-03, A/V_hf = 1.8837e-02],
+  Test-error[C_lf = 1.2265e-02, C_hf = 2.4385e-02], A_hf = 1.1032e-02, V_hf = 5.4648e-03, time: 1500.33s
+Epoch 328000:
+  Train-loss[total = 1.8648e-02, C_lf = 7.3924e-03, A/V_lf = 2.5406e-05, C_hf = 3.3595e-03, A/V_hf = 1.8436e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4394e-02], A_hf = 1.0956e-02, V_hf = 5.2826e-03, time: 1504.42s
+Epoch 329000:
+  Train-loss[total = 1.7476e-02, C_lf = 6.2189e-03, A/V_lf = 6.6512e-05, C_hf = 3.3609e-03, A/V_hf = 1.9197e-02],
+  Test-error[C_lf = 1.2225e-02, C_hf = 2.4354e-02], A_hf = 1.1105e-02, V_hf = 5.6069e-03, time: 1508.42s
+Epoch 330000:
+  Train-loss[total = 1.8336e-02, C_lf = 7.0904e-03, A/V_lf = 1.9435e-05, C_hf = 3.3399e-03, A/V_hf = 1.8722e-02],
+  Test-error[C_lf = 1.2258e-02, C_hf = 2.4341e-02], A_hf = 1.1010e-02, V_hf = 5.4144e-03, time: 1512.54s
+Epoch 331000:
+  Train-loss[total = 1.8322e-02, C_lf = 7.0655e-03, A/V_lf = 5.3249e-05, C_hf = 3.3612e-03, A/V_hf = 1.8550e-02],
+  Test-error[C_lf = 1.2272e-02, C_hf = 2.4405e-02], A_hf = 1.0969e-02, V_hf = 5.3615e-03, time: 1516.66s
+Epoch 332000:
+  Train-loss[total = 1.8706e-02, C_lf = 7.4421e-03, A/V_lf = 3.4039e-05, C_hf = 3.3766e-03, A/V_hf = 1.8090e-02],
+  Test-error[C_lf = 1.2246e-02, C_hf = 2.4402e-02], A_hf = 1.0890e-02, V_hf = 5.1223e-03, time: 1520.57s
+Epoch 333000:
+  Train-loss[total = 1.8883e-02, C_lf = 7.6361e-03, A/V_lf = 5.8151e-05, C_hf = 3.3431e-03, A/V_hf = 1.8453e-02],
+  Test-error[C_lf = 1.2244e-02, C_hf = 2.4414e-02], A_hf = 1.0945e-02, V_hf = 5.3326e-03, time: 1524.48s
+Epoch 334000:
+  Train-loss[total = 1.7751e-02, C_lf = 6.4891e-03, A/V_lf = 5.9569e-05, C_hf = 3.3736e-03, A/V_hf = 1.8469e-02],
+  Test-error[C_lf = 1.2254e-02, C_hf = 2.4348e-02], A_hf = 1.0962e-02, V_hf = 5.3008e-03, time: 1528.44s
+Epoch 335000:
+  Train-loss[total = 1.7838e-02, C_lf = 6.5876e-03, A/V_lf = 4.7293e-05, C_hf = 3.3512e-03, A/V_hf = 1.7867e-02],
+  Test-error[C_lf = 1.2254e-02, C_hf = 2.4399e-02], A_hf = 1.0816e-02, V_hf = 5.1116e-03, time: 1532.43s
+Epoch 336000:
+  Train-loss[total = 1.7995e-02, C_lf = 6.7520e-03, A/V_lf = 6.7465e-05, C_hf = 3.3363e-03, A/V_hf = 1.8731e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4384e-02], A_hf = 1.1020e-02, V_hf = 5.3926e-03, time: 1536.48s
+Epoch 337000:
+  Train-loss[total = 1.8193e-02, C_lf = 6.9464e-03, A/V_lf = 6.4241e-05, C_hf = 3.3440e-03, A/V_hf = 1.7879e-02],
+  Test-error[C_lf = 1.2246e-02, C_hf = 2.4393e-02], A_hf = 1.0803e-02, V_hf = 5.1628e-03, time: 1540.43s
+Epoch 338000:
+  Train-loss[total = 1.7582e-02, C_lf = 6.3351e-03, A/V_lf = 4.6607e-05, C_hf = 3.3443e-03, A/V_hf = 1.8747e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4404e-02], A_hf = 1.1021e-02, V_hf = 5.4067e-03, time: 1544.37s
+Epoch 339000:
+  Train-loss[total = 1.8239e-02, C_lf = 6.9715e-03, A/V_lf = 3.4149e-05, C_hf = 3.3861e-03, A/V_hf = 1.8369e-02],
+  Test-error[C_lf = 1.2237e-02, C_hf = 2.4332e-02], A_hf = 1.0949e-02, V_hf = 5.2369e-03, time: 1548.40s
+Epoch 340000:
+  Train-loss[total = 1.7742e-02, C_lf = 6.4887e-03, A/V_lf = 6.5478e-05, C_hf = 3.3584e-03, A/V_hf = 1.8957e-02],
+  Test-error[C_lf = 1.2255e-02, C_hf = 2.4397e-02], A_hf = 1.1049e-02, V_hf = 5.5330e-03, time: 1552.33s
+Epoch 341000:
+  Train-loss[total = 1.8165e-02, C_lf = 6.9229e-03, A/V_lf = 2.3070e-05, C_hf = 3.3366e-03, A/V_hf = 1.8075e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4393e-02], A_hf = 1.0847e-02, V_hf = 5.2363e-03, time: 1556.23s
+Epoch 342000:
+  Train-loss[total = 1.7747e-02, C_lf = 6.4952e-03, A/V_lf = 2.4656e-05, C_hf = 3.3571e-03, A/V_hf = 1.7687e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4371e-02], A_hf = 1.0777e-02, V_hf = 5.0391e-03, time: 1560.25s
+Epoch 343000:
+  Train-loss[total = 1.7746e-02, C_lf = 6.4947e-03, A/V_lf = 3.8024e-05, C_hf = 3.3551e-03, A/V_hf = 1.7577e-02],
+  Test-error[C_lf = 1.2271e-02, C_hf = 2.4379e-02], A_hf = 1.0740e-02, V_hf = 5.0343e-03, time: 1564.28s
+Epoch 344000:
+  Train-loss[total = 1.8506e-02, C_lf = 7.2554e-03, A/V_lf = 7.9536e-05, C_hf = 3.3534e-03, A/V_hf = 1.8548e-02],
+  Test-error[C_lf = 1.2236e-02, C_hf = 2.4406e-02], A_hf = 1.0955e-02, V_hf = 5.3990e-03, time: 1568.22s
+Epoch 345000:
+  Train-loss[total = 1.8607e-02, C_lf = 7.3623e-03, A/V_lf = 3.2271e-05, C_hf = 3.3440e-03, A/V_hf = 1.7580e-02],
+  Test-error[C_lf = 1.2294e-02, C_hf = 2.4413e-02], A_hf = 1.0749e-02, V_hf = 5.0082e-03, time: 1572.19s
+Epoch 346000:
+  Train-loss[total = 1.6838e-02, C_lf = 5.5873e-03, A/V_lf = 1.5052e-05, C_hf = 3.3573e-03, A/V_hf = 1.7871e-02],
+  Test-error[C_lf = 1.2275e-02, C_hf = 2.4387e-02], A_hf = 1.0786e-02, V_hf = 5.2035e-03, time: 1576.24s
+Epoch 347000:
+  Train-loss[total = 1.8178e-02, C_lf = 6.9239e-03, A/V_lf = 2.7084e-05, C_hf = 3.3631e-03, A/V_hf = 1.8071e-02],
+  Test-error[C_lf = 1.2269e-02, C_hf = 2.4403e-02], A_hf = 1.0838e-02, V_hf = 5.2562e-03, time: 1580.23s
+Epoch 348000:
+  Train-loss[total = 1.7873e-02, C_lf = 6.6309e-03, A/V_lf = 5.0856e-05, C_hf = 3.3405e-03, A/V_hf = 1.8505e-02],
+  Test-error[C_lf = 1.2262e-02, C_hf = 2.4372e-02], A_hf = 1.0929e-02, V_hf = 5.4297e-03, time: 1584.26s
+Epoch 349000:
+  Train-loss[total = 1.7686e-02, C_lf = 6.4525e-03, A/V_lf = 6.5326e-05, C_hf = 3.3227e-03, A/V_hf = 1.8393e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4386e-02], A_hf = 1.0917e-02, V_hf = 5.3526e-03, time: 1588.30s
+Epoch 350000:
+  Train-loss[total = 1.7595e-02, C_lf = 6.3502e-03, A/V_lf = 2.5818e-05, C_hf = 3.3454e-03, A/V_hf = 1.8202e-02],
+  Test-error[C_lf = 1.2255e-02, C_hf = 2.4367e-02], A_hf = 1.0888e-02, V_hf = 5.2450e-03, time: 1592.31s
+Epoch 351000:
+  Train-loss[total = 1.7451e-02, C_lf = 6.2051e-03, A/V_lf = 1.9051e-05, C_hf = 3.3495e-03, A/V_hf = 1.7463e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4391e-02], A_hf = 1.0706e-02, V_hf = 5.0141e-03, time: 1596.47s
+Epoch 352000:
+  Train-loss[total = 1.8281e-02, C_lf = 7.0328e-03, A/V_lf = 2.2526e-05, C_hf = 3.3538e-03, A/V_hf = 1.7993e-02],
+  Test-error[C_lf = 1.2248e-02, C_hf = 2.4351e-02], A_hf = 1.0820e-02, V_hf = 5.2295e-03, time: 1600.54s
+Epoch 353000:
+  Train-loss[total = 1.8258e-02, C_lf = 7.0162e-03, A/V_lf = 9.0819e-05, C_hf = 3.3403e-03, A/V_hf = 1.8458e-02],
+  Test-error[C_lf = 1.2277e-02, C_hf = 2.4373e-02], A_hf = 1.0912e-02, V_hf = 5.4332e-03, time: 1604.51s
+Epoch 354000:
+  Train-loss[total = 1.7596e-02, C_lf = 6.3584e-03, A/V_lf = 7.0189e-05, C_hf = 3.3331e-03, A/V_hf = 1.8431e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4354e-02], A_hf = 1.0908e-02, V_hf = 5.4189e-03, time: 1608.53s
+Epoch 355000:
+  Train-loss[total = 1.7262e-02, C_lf = 6.0264e-03, A/V_lf = 4.7747e-05, C_hf = 3.3305e-03, A/V_hf = 1.8102e-02],
+  Test-error[C_lf = 1.2283e-02, C_hf = 2.4335e-02], A_hf = 1.0843e-02, V_hf = 5.2751e-03, time: 1612.53s
+Epoch 356000:
+  Train-loss[total = 1.8149e-02, C_lf = 6.9067e-03, A/V_lf = 1.0805e-04, C_hf = 3.3412e-03, A/V_hf = 1.8483e-02],
+  Test-error[C_lf = 1.2254e-02, C_hf = 2.4333e-02], A_hf = 1.0940e-02, V_hf = 5.3783e-03, time: 1616.47s
+Epoch 357000:
+  Train-loss[total = 1.7231e-02, C_lf = 5.9922e-03, A/V_lf = 6.8843e-05, C_hf = 3.3371e-03, A/V_hf = 1.8295e-02],
+  Test-error[C_lf = 1.2272e-02, C_hf = 2.4391e-02], A_hf = 1.0889e-02, V_hf = 5.3373e-03, time: 1620.14s
+Epoch 358000:
+  Train-loss[total = 1.7039e-02, C_lf = 5.7914e-03, A/V_lf = 7.8975e-05, C_hf = 3.3539e-03, A/V_hf = 1.8545e-02],
+  Test-error[C_lf = 1.2268e-02, C_hf = 2.4349e-02], A_hf = 1.0926e-02, V_hf = 5.4793e-03, time: 1624.21s
+Epoch 359000:
+  Train-loss[total = 1.7790e-02, C_lf = 6.5530e-03, A/V_lf = 3.7268e-05, C_hf = 3.3349e-03, A/V_hf = 1.7836e-02],
+  Test-error[C_lf = 1.2286e-02, C_hf = 2.4366e-02], A_hf = 1.0764e-02, V_hf = 5.2320e-03, time: 1628.17s
+Epoch 360000:
+  Train-loss[total = 1.8906e-02, C_lf = 7.6709e-03, A/V_lf = 6.8883e-05, C_hf = 3.3302e-03, A/V_hf = 1.8144e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4335e-02], A_hf = 1.0810e-02, V_hf = 5.4109e-03, time: 1632.09s
+Epoch 361000:
+  Train-loss[total = 1.8120e-02, C_lf = 6.8947e-03, A/V_lf = 5.8642e-05, C_hf = 3.3105e-03, A/V_hf = 1.7895e-02],
+  Test-error[C_lf = 1.2264e-02, C_hf = 2.4366e-02], A_hf = 1.0770e-02, V_hf = 5.2748e-03, time: 1636.07s
+Epoch 362000:
+  Train-loss[total = 1.7533e-02, C_lf = 6.2949e-03, A/V_lf = 7.2040e-05, C_hf = 3.3367e-03, A/V_hf = 1.8361e-02],
+  Test-error[C_lf = 1.2275e-02, C_hf = 2.4367e-02], A_hf = 1.0881e-02, V_hf = 5.4259e-03, time: 1640.06s
+Epoch 363000:
+  Train-loss[total = 1.7239e-02, C_lf = 6.0018e-03, A/V_lf = 4.8488e-05, C_hf = 3.3365e-03, A/V_hf = 1.8237e-02],
+  Test-error[C_lf = 1.2275e-02, C_hf = 2.4378e-02], A_hf = 1.0871e-02, V_hf = 5.3311e-03, time: 1644.02s
+Epoch 364000:
+  Train-loss[total = 1.7809e-02, C_lf = 6.5588e-03, A/V_lf = 1.5828e-05, C_hf = 3.3635e-03, A/V_hf = 1.7406e-02],
+  Test-error[C_lf = 1.2260e-02, C_hf = 2.4403e-02], A_hf = 1.0685e-02, V_hf = 5.0156e-03, time: 1647.95s
+Epoch 365000:
+  Train-loss[total = 1.8276e-02, C_lf = 7.0378e-03, A/V_lf = 5.9320e-05, C_hf = 3.3393e-03, A/V_hf = 1.7973e-02],
+  Test-error[C_lf = 1.2266e-02, C_hf = 2.4383e-02], A_hf = 1.0782e-02, V_hf = 5.3213e-03, time: 1652.04s
+Epoch 366000:
+  Train-loss[total = 1.8472e-02, C_lf = 7.2434e-03, A/V_lf = 9.4476e-05, C_hf = 3.3193e-03, A/V_hf = 1.8280e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4371e-02], A_hf = 1.0865e-02, V_hf = 5.3901e-03, time: 1655.97s
+Epoch 367000:
+  Train-loss[total = 1.7226e-02, C_lf = 5.9920e-03, A/V_lf = 5.2537e-05, C_hf = 3.3315e-03, A/V_hf = 1.7739e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4364e-02], A_hf = 1.0753e-02, V_hf = 5.1662e-03, time: 1659.96s
+Epoch 368000:
+  Train-loss[total = 1.7171e-02, C_lf = 5.9447e-03, A/V_lf = 4.5574e-05, C_hf = 3.3164e-03, A/V_hf = 1.7772e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4339e-02], A_hf = 1.0757e-02, V_hf = 5.1873e-03, time: 1663.98s
+Epoch 369000:
+  Train-loss[total = 1.6581e-02, C_lf = 5.3532e-03, A/V_lf = 4.5000e-05, C_hf = 3.3203e-03, A/V_hf = 1.7736e-02],
+  Test-error[C_lf = 1.2268e-02, C_hf = 2.4340e-02], A_hf = 1.0729e-02, V_hf = 5.2325e-03, time: 1667.94s
+Epoch 370000:
+  Train-loss[total = 1.8148e-02, C_lf = 6.9139e-03, A/V_lf = 6.6099e-06, C_hf = 3.3331e-03, A/V_hf = 1.7235e-02],
+  Test-error[C_lf = 1.2269e-02, C_hf = 2.4371e-02], A_hf = 1.0641e-02, V_hf = 4.9675e-03, time: 1671.95s
+Epoch 371000:
+  Train-loss[total = 1.7784e-02, C_lf = 6.5680e-03, A/V_lf = 1.7537e-05, C_hf = 3.2986e-03, A/V_hf = 1.7528e-02],
+  Test-error[C_lf = 1.2273e-02, C_hf = 2.4361e-02], A_hf = 1.0700e-02, V_hf = 5.1006e-03, time: 1675.98s
+Epoch 372000:
+  Train-loss[total = 1.7697e-02, C_lf = 6.4659e-03, A/V_lf = 3.1621e-05, C_hf = 3.3278e-03, A/V_hf = 1.7543e-02],
+  Test-error[C_lf = 1.2243e-02, C_hf = 2.4345e-02], A_hf = 1.0723e-02, V_hf = 5.0497e-03, time: 1679.90s
+Epoch 373000:
+  Train-loss[total = 1.7761e-02, C_lf = 6.5418e-03, A/V_lf = 3.5924e-05, C_hf = 3.3050e-03, A/V_hf = 1.7761e-02],
+  Test-error[C_lf = 1.2248e-02, C_hf = 2.4359e-02], A_hf = 1.0765e-02, V_hf = 5.1529e-03, time: 1683.93s
+Epoch 374000:
+  Train-loss[total = 1.7879e-02, C_lf = 6.6359e-03, A/V_lf = 7.0433e-05, C_hf = 3.3532e-03, A/V_hf = 1.8123e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4399e-02], A_hf = 1.0817e-02, V_hf = 5.3697e-03, time: 1687.90s
+Epoch 375000:
+  Train-loss[total = 1.8619e-02, C_lf = 7.3962e-03, A/V_lf = 2.2120e-05, C_hf = 3.3121e-03, A/V_hf = 1.7568e-02],
+  Test-error[C_lf = 1.2269e-02, C_hf = 2.4368e-02], A_hf = 1.0703e-02, V_hf = 5.1346e-03, time: 1691.76s
+Epoch 376000:
+  Train-loss[total = 1.8405e-02, C_lf = 7.1799e-03, A/V_lf = 2.5308e-05, C_hf = 3.3188e-03, A/V_hf = 1.7287e-02],
+  Test-error[C_lf = 1.2258e-02, C_hf = 2.4377e-02], A_hf = 1.0614e-02, V_hf = 5.1011e-03, time: 1695.75s
+Epoch 377000:
+  Train-loss[total = 1.7769e-02, C_lf = 6.5454e-03, A/V_lf = 9.9759e-06, C_hf = 3.3154e-03, A/V_hf = 1.7302e-02],
+  Test-error[C_lf = 1.2281e-02, C_hf = 2.4386e-02], A_hf = 1.0630e-02, V_hf = 5.0697e-03, time: 1699.78s
+Epoch 378000:
+  Train-loss[total = 1.7800e-02, C_lf = 6.5780e-03, A/V_lf = 6.9953e-05, C_hf = 3.3120e-03, A/V_hf = 1.8246e-02],
+  Test-error[C_lf = 1.2253e-02, C_hf = 2.4374e-02], A_hf = 1.0792e-02, V_hf = 5.5614e-03, time: 1703.78s
+Epoch 379000:
+  Train-loss[total = 1.8174e-02, C_lf = 6.9513e-03, A/V_lf = 2.8223e-05, C_hf = 3.3141e-03, A/V_hf = 1.7674e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4349e-02], A_hf = 1.0688e-02, V_hf = 5.2864e-03, time: 1707.88s
+Epoch 380000:
+  Train-loss[total = 1.8018e-02, C_lf = 6.7925e-03, A/V_lf = 5.8360e-05, C_hf = 3.3207e-03, A/V_hf = 1.8120e-02],
+  Test-error[C_lf = 1.2252e-02, C_hf = 2.4384e-02], A_hf = 1.0815e-02, V_hf = 5.3736e-03, time: 1711.91s
+Epoch 381000:
+  Train-loss[total = 1.6692e-02, C_lf = 5.4673e-03, A/V_lf = 3.4765e-05, C_hf = 3.3200e-03, A/V_hf = 1.7764e-02],
+  Test-error[C_lf = 1.2269e-02, C_hf = 2.4381e-02], A_hf = 1.0706e-02, V_hf = 5.3259e-03, time: 1715.90s
+Epoch 382000:
+  Train-loss[total = 1.6948e-02, C_lf = 5.7309e-03, A/V_lf = 3.3497e-05, C_hf = 3.3054e-03, A/V_hf = 1.7908e-02],
+  Test-error[C_lf = 1.2234e-02, C_hf = 2.4367e-02], A_hf = 1.0754e-02, V_hf = 5.3341e-03, time: 1719.64s
+Epoch 383000:
+  Train-loss[total = 1.8013e-02, C_lf = 6.7805e-03, A/V_lf = 4.2176e-05, C_hf = 3.3354e-03, A/V_hf = 1.8078e-02],
+  Test-error[C_lf = 1.2285e-02, C_hf = 2.4377e-02], A_hf = 1.0835e-02, V_hf = 5.2746e-03, time: 1723.57s
+Epoch 384000:
+  Train-loss[total = 1.7357e-02, C_lf = 6.1496e-03, A/V_lf = 5.8921e-05, C_hf = 3.2857e-03, A/V_hf = 1.7762e-02],
+  Test-error[C_lf = 1.2262e-02, C_hf = 2.4398e-02], A_hf = 1.0718e-02, V_hf = 5.2889e-03, time: 1727.62s
+Epoch 385000:
+  Train-loss[total = 1.7666e-02, C_lf = 6.4441e-03, A/V_lf = 5.0355e-05, C_hf = 3.3162e-03, A/V_hf = 1.7875e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4361e-02], A_hf = 1.0791e-02, V_hf = 5.1927e-03, time: 1731.60s
+Epoch 386000:
+  Train-loss[total = 1.7940e-02, C_lf = 6.7261e-03, A/V_lf = 3.5358e-05, C_hf = 3.2995e-03, A/V_hf = 1.7872e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4357e-02], A_hf = 1.0738e-02, V_hf = 5.3448e-03, time: 1735.60s
+Epoch 387000:
+  Train-loss[total = 1.7810e-02, C_lf = 6.5952e-03, A/V_lf = 7.2468e-05, C_hf = 3.3023e-03, A/V_hf = 1.8009e-02],
+  Test-error[C_lf = 1.2278e-02, C_hf = 2.4397e-02], A_hf = 1.0780e-02, V_hf = 5.3631e-03, time: 1739.63s
+Epoch 388000:
+  Train-loss[total = 1.7858e-02, C_lf = 6.6394e-03, A/V_lf = 6.5921e-05, C_hf = 3.3100e-03, A/V_hf = 1.7226e-02],
+  Test-error[C_lf = 1.2265e-02, C_hf = 2.4377e-02], A_hf = 1.0579e-02, V_hf = 5.1420e-03, time: 1743.66s
+Epoch 389000:
+  Train-loss[total = 1.6632e-02, C_lf = 5.3976e-03, A/V_lf = 6.2557e-05, C_hf = 3.3423e-03, A/V_hf = 1.7686e-02],
+  Test-error[C_lf = 1.2259e-02, C_hf = 2.4372e-02], A_hf = 1.0702e-02, V_hf = 5.2605e-03, time: 1747.72s
+Epoch 390000:
+  Train-loss[total = 1.7323e-02, C_lf = 6.1125e-03, A/V_lf = 7.7970e-05, C_hf = 3.2932e-03, A/V_hf = 1.8259e-02],
+  Test-error[C_lf = 1.2267e-02, C_hf = 2.4343e-02], A_hf = 1.0803e-02, V_hf = 5.5428e-03, time: 1751.71s
+Epoch 391000:
+  Train-loss[total = 1.7577e-02, C_lf = 6.3693e-03, A/V_lf = 5.1174e-05, C_hf = 3.2891e-03, A/V_hf = 1.7889e-02],
+  Test-error[C_lf = 1.2265e-02, C_hf = 2.4335e-02], A_hf = 1.0721e-02, V_hf = 5.4099e-03, time: 1755.71s
+Epoch 392000:
+  Train-loss[total = 1.8038e-02, C_lf = 6.8187e-03, A/V_lf = 3.2391e-05, C_hf = 3.3139e-03, A/V_hf = 1.7927e-02],
+  Test-error[C_lf = 1.2256e-02, C_hf = 2.4368e-02], A_hf = 1.0760e-02, V_hf = 5.3378e-03, time: 1759.65s
+Epoch 393000:
+  Train-loss[total = 1.8292e-02, C_lf = 7.0788e-03, A/V_lf = 7.0800e-05, C_hf = 3.3016e-03, A/V_hf = 1.8129e-02],
+  Test-error[C_lf = 1.2287e-02, C_hf = 2.4328e-02], A_hf = 1.0778e-02, V_hf = 5.4854e-03, time: 1763.54s
+Epoch 394000:
+  Train-loss[total = 1.8175e-02, C_lf = 6.9571e-03, A/V_lf = 3.7196e-05, C_hf = 3.3120e-03, A/V_hf = 1.7753e-02],
+  Test-error[C_lf = 1.2261e-02, C_hf = 2.4360e-02], A_hf = 1.0718e-02, V_hf = 5.2803e-03, time: 1767.43s
+Epoch 395000:
+  Train-loss[total = 1.6960e-02, C_lf = 5.7505e-03, A/V_lf = 4.6283e-05, C_hf = 3.2954e-03, A/V_hf = 1.8038e-02],
+  Test-error[C_lf = 1.2278e-02, C_hf = 2.4370e-02], A_hf = 1.0775e-02, V_hf = 5.4037e-03, time: 1771.38s
+Epoch 396000:
+  Train-loss[total = 1.7391e-02, C_lf = 6.1688e-03, A/V_lf = 5.5222e-05, C_hf = 3.3203e-03, A/V_hf = 1.8043e-02],
+  Test-error[C_lf = 1.2288e-02, C_hf = 2.4395e-02], A_hf = 1.0814e-02, V_hf = 5.3000e-03, time: 1775.42s
+Epoch 397000:
+  Train-loss[total = 1.8111e-02, C_lf = 6.9043e-03, A/V_lf = 8.0120e-05, C_hf = 3.2899e-03, A/V_hf = 1.8230e-02],
+  Test-error[C_lf = 1.2270e-02, C_hf = 2.4368e-02], A_hf = 1.0786e-02, V_hf = 5.5632e-03, time: 1779.39s
+Epoch 398000:
+  Train-loss[total = 1.7853e-02, C_lf = 6.6376e-03, A/V_lf = 4.3436e-05, C_hf = 3.3083e-03, A/V_hf = 1.8130e-02],
+  Test-error[C_lf = 1.2278e-02, C_hf = 2.4375e-02], A_hf = 1.0766e-02, V_hf = 5.5192e-03, time: 1783.35s
+Epoch 399000:
+  Train-loss[total = 1.7087e-02, C_lf = 5.8645e-03, A/V_lf = 5.9603e-05, C_hf = 3.3214e-03, A/V_hf = 1.8000e-02],
+  Test-error[C_lf = 1.2264e-02, C_hf = 2.4316e-02], A_hf = 1.0764e-02, V_hf = 5.3998e-03, time: 1787.29s
+Epoch 400000:
+  Train-loss[total = 1.7964e-02, C_lf = 6.7612e-03, A/V_lf = 5.2675e-05, C_hf = 3.2835e-03, A/V_hf = 1.7905e-02],
+  Test-error[C_lf = 1.2257e-02, C_hf = 2.4337e-02], A_hf = 1.0721e-02, V_hf = 5.4245e-03, time: 1791.26s
